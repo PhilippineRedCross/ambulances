@@ -188,7 +188,7 @@ function chapterSelect(chapter) {
     for(var i = 0; i < selectedChapterAmbulances.length; i++) {
       var item = selectedChapterAmbulances[i];
       var ambulanceHtml = '<div><img class="ambulanceIcon" src="img/ambulance_OCHAremix.png" />' +
-        selectedChapterAmbulances[i].BRAND + " | " + selectedChapterAmbulances[i].Plate_no + " | " +
+        selectedChapterAmbulances[i].BRAND + " | " + selectedChapterAmbulances[i].Plate_No + " | " +
         selectedChapterAmbulances[i].STATUS + "</div>";
       $('#ambulanceInfo').append(ambulanceHtml);
     }
