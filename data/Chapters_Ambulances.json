@@ -1,40 +1,32 @@
 [
   {
     "Region":"XIII",
-    "Chapter_SubChapter":"Agusan del Norte ",
-    "Chapter_Lookup":"Agusan del Norte",
-    "Chapter_ID":"68",
-    "No_Ambu":"1",
+    "Chapter_SubChapter":"Agusan del Norte",
+    "CODE":"chapter01",
     "BRAND":"L300 Van / 2005",
     "Plate_No":"ZFD 927",
     "STATUS":"Functional"
   },
   {
     "Region":"XIII",
-    "Chapter_SubChapter":"Agusan del Norte ",
-    "Chapter_Lookup":"Agusan del Norte",
-    "Chapter_ID":"68",
-    "No_Ambu":"1",
+    "Chapter_SubChapter":"Agusan del Norte",
+    "CODE":"chapter01",
     "BRAND":"Ford Ranger 4x4 / 2009",
     "Plate_No":"NIE 522",
     "STATUS":"Functional"
   },
   {
     "Region":"XIII",
-    "Chapter_SubChapter":"Agusan del Sur ",
-    "Chapter_Lookup":"Agusan del Sur",
-    "Chapter_ID":"69",
-    "No_Ambu":"1",
+    "Chapter_SubChapter":"Agusan del Sur",
+    "CODE":"chapter03",
     "BRAND":"Ford Ranger 4x4 / 2009",
     "Plate_No":"NIS 852",
     "STATUS":"Functional"
   },
   {
     "Region":"VI",
-    "Chapter_SubChapter":"Aklan ",
-    "Chapter_Lookup":"Aklan",
-    "Chapter_ID":"51",
-    "No_Ambu":"1",
+    "Chapter_SubChapter":"Aklan",
+    "CODE":"chapter04",
     "BRAND":"Ford Ranger 4x4 / 2009",
     "Plate_No":"PQU 987",
     "STATUS":"Functional"
@@ -42,19 +34,15 @@
   {
     "Region":"I",
     "Chapter_SubChapter":"Alaminos City - Western Pangasinan",
-    "Chapter_Lookup":"Alaminos City",
-    "Chapter_ID":"2",
-    "No_Ambu":"1",
+    "CODE":"chapter05",
     "BRAND":"L300 Mitsubishi",
     "Plate_No":"AEM 136",
     "STATUS":"Functional"
   },
   {
     "Region":"IV-B",
-    "Chapter_SubChapter":"Albay Legaspi City ",
-    "Chapter_Lookup":"Albay",
-    "Chapter_ID":"45",
-    "No_Ambu":"1",
+    "Chapter_SubChapter":"Albay Legaspi City",
+    "CODE":"chapter06",
     "BRAND":"Ford Ranger 4x4 / 2009",
     "Plate_No":"NIL 542",
     "STATUS":"Functional"
@@ -62,39 +50,31 @@
   {
     "Region":"CAR",
     "Chapter_SubChapter":"Baguio City",
-    "Chapter_Lookup":"Baguio",
-    "Chapter_ID":"5",
-    "No_Ambu":"1",
+    "CODE":"chapter08",
     "BRAND":"Foton View / 2010",
     "Plate_No":"SKP-983",
     "STATUS":"Functional"
   },
   {
     "Region":"IV-A",
-    "Chapter_SubChapter":"Batangas ",
-    "Chapter_Lookup":"Batangas",
-    "Chapter_ID":"36",
-    "No_Ambu":"1",
+    "Chapter_SubChapter":"Batangas",
+    "CODE":"chapter10",
     "BRAND":"Ford Ranger 4x4 / 2007",
     "Plate_No":"ZLU 953-A022",
     "STATUS":"Functional"
   },
   {
     "Region":"IV-A",
-    "Chapter_SubChapter":"Batangas ",
-    "Chapter_Lookup":"Batangas",
-    "Chapter_ID":"36",
-    "No_Ambu":"1",
+    "Chapter_SubChapter":"Batangas",
+    "CODE":"chapter10",
     "BRAND":"Toyota Hiace Van / 2009",
     "Plate_No":"ZTT 719-A010",
     "STATUS":"Functional"
   },
   {
     "Region":"IV-A",
-    "Chapter_SubChapter":"Batangas ",
-    "Chapter_Lookup":"Batangas",
-    "Chapter_ID":"36",
-    "No_Ambu":"1",
+    "Chapter_SubChapter":"Batangas",
+    "CODE":"chapter10",
     "BRAND":"Toyota Hiace Van / 2009",
     "Plate_No":"ZTT 699-A009",
     "STATUS":"Functional"
@@ -102,9 +82,7 @@
   {
     "Region":"CAR",
     "Chapter_SubChapter":"Benguet",
-    "Chapter_Lookup":"Benguet",
-    "Chapter_ID":"7",
-    "No_Ambu":"1",
+    "CODE":"chapter11",
     "BRAND":"Toyota Hiace Van / 1993",
     "Plate_No":"ZRL 603-A027",
     "STATUS":"Functional"
@@ -112,9 +90,7 @@
   {
     "Region":"VII",
     "Chapter_SubChapter":"Bohol ",
-    "Chapter_Lookup":"Bohol",
-    "Chapter_ID":"53",
-    "No_Ambu":"1",
+    "CODE":"chapter12",
     "BRAND":"Toyota Hiace Van / 1993",
     "Plate_No":"ZRL 683-A028",
     "STATUS":"serviceable"
@@ -122,9 +98,7 @@
   {
     "Region":"VII",
     "Chapter_SubChapter":"Bohol ",
-    "Chapter_Lookup":"Bohol",
-    "Chapter_ID":"53",
-    "No_Ambu":"1",
+    "CODE":"chapter12",
     "BRAND":"Ford Ranger 4x4 / 2009",
     "Plate_No":"NOP 522",
     "STATUS":"serviceable"
@@ -132,9 +106,7 @@
   {
     "Region":"VI",
     "Chapter_SubChapter":"Boracay ",
-    "Chapter_Lookup":"Boracay",
-    "Chapter_ID":"#N/A",
-    "No_Ambu":"1",
+    "CODE":"chapter13",
     "BRAND":"Toyota Hiace Van / 2009",
     "Plate_No":"ZTT 749-A006",
     "STATUS":"Functional"
@@ -142,9 +114,7 @@
   {
     "Region":"III",
     "Chapter_SubChapter":"Bulacan ",
-    "Chapter_Lookup":"Bulacan",
-    "Chapter_ID":"8",
-    "No_Ambu":"1",
+    "CODE":"chapter15",
     "BRAND":"Toyota Hiace Van / 2009",
     "Plate_No":"ZTR 794",
     "STATUS":"Functional"
@@ -152,9 +122,7 @@
   {
     "Region":"III",
     "Chapter_SubChapter":"Bulacan ",
-    "Chapter_Lookup":"Bulacan",
-    "Chapter_ID":"8",
-    "No_Ambu":"1",
+    "CODE":"chapter15",
     "BRAND":"Toyota Hiace Van / 2009",
     "Plate_No":"ZTT 729-A009",
     "STATUS":"Functional"
@@ -162,9 +130,7 @@
   {
     "Region":"NCR",
     "Chapter_SubChapter":"Caloocan City ",
-    "Chapter_Lookup":"Caloocan",
-    "Chapter_ID":"26",
-    "No_Ambu":"1",
+    "CODE":"chapter17",
     "BRAND":"KIA Besta Van/ 1999",
     "Plate_No":"SFC 750",
     "STATUS":"For transfer to Zamboanga"
@@ -172,9 +138,7 @@
   {
     "Region":"NCR",
     "Chapter_SubChapter":"Caloocan City ",
-    "Chapter_Lookup":"Caloocan",
-    "Chapter_ID":"26",
-    "No_Ambu":"1",
+    "CODE":"chapter17",
     "BRAND":"Fuso Canter / 1995",
     "Plate_No":"ZRL 693-A032",
     "STATUS":"for repair"
@@ -182,9 +146,7 @@
   {
     "Region":"IV-B",
     "Chapter_SubChapter":"Camarines Sur ",
-    "Chapter_Lookup":"Camarines Sur",
-    "Chapter_ID":"47",
-    "No_Ambu":"1",
+    "CODE":"chapter19",
     "BRAND":"Ford Ranger 4x4 / 2009",
     "Plate_No":"NIT 971",
     "STATUS":"Functional"
@@ -192,9 +154,7 @@
   {
     "Region":"VI",
     "Chapter_SubChapter":"Capiz ",
-    "Chapter_Lookup":"Capiz",
-    "Chapter_ID":"54",
-    "No_Ambu":"1",
+    "CODE":"chapter20",
     "BRAND":"Ford Ranger 4x4 / 2009",
     "Plate_No":"NOP 602",
     "STATUS":"Functional"
@@ -202,9 +162,7 @@
   {
     "Region":"IV-B",
     "Chapter_SubChapter":"Catanduanes ",
-    "Chapter_Lookup":"Catanduanes",
-    "Chapter_ID":"48",
-    "No_Ambu":"1",
+    "CODE":"chapter21",
     "BRAND":"Kia Besta Van / 1999",
     "Plate_No":"CPS 617",
     "STATUS":"Functional"
@@ -212,9 +170,7 @@
   {
     "Region":"IV-A",
     "Chapter_SubChapter":"Cavite ",
-    "Chapter_Lookup":"Cavite",
-    "Chapter_ID":"37",
-    "No_Ambu":"1",
+    "CODE":"chapter22",
     "BRAND":"Toyota Hiace Van / 2009",
     "Plate_No":"ZTT 739-A007",
     "STATUS":"Functional"
@@ -222,9 +178,7 @@
   {
     "Region":"IV-A",
     "Chapter_SubChapter":"Cavite ",
-    "Chapter_Lookup":"Cavite",
-    "Chapter_ID":"37",
-    "No_Ambu":"1",
+    "CODE":"chapter22",
     "BRAND":"Toyota Hiace Van / 1993",
     "Plate_No":"RDL 173",
     "STATUS":"Functional"
@@ -232,9 +186,7 @@
   {
     "Region":"VII",
     "Chapter_SubChapter":"Cebu ",
-    "Chapter_Lookup":"Cebu",
-    "Chapter_ID":"55",
-    "No_Ambu":"1",
+    "CODE":"chapter23",
     "BRAND":"Toyota Hiace Van / 2009",
     "Plate_No":"ZTT 699",
     "STATUS":"Functional"
@@ -242,9 +194,7 @@
   {
     "Region":"XII",
     "Chapter_SubChapter":"Cotabato ",
-    "Chapter_Lookup":"Cotabato",
-    "Chapter_ID":"73",
-    "No_Ambu":"1",
+    "CODE":"chapter25",
     "BRAND":"Toyota Hiace Van / 2012",
     "Plate_No":"WII 751",
     "STATUS":"Functional"
@@ -252,9 +202,7 @@
   {
     "Region":"XII",
     "Chapter_SubChapter":"Davao City ",
-    "Chapter_Lookup":"Davao City",
-    "Chapter_ID":"74",
-    "No_Ambu":"1",
+    "CODE":"chapter26",
     "BRAND":"Ford Ranger 4x4 / 2009",
     "Plate_No":"NIE 472",
     "STATUS":"Functional"
@@ -262,9 +210,7 @@
   {
     "Region":"XI",
     "Chapter_SubChapter":"Davao del Sur ",
-    "Chapter_Lookup":"Davao del Sur",
-    "Chapter_ID":"76",
-    "No_Ambu":"1",
+    "CODE":"chapter28",
     "BRAND":"Toyota Hiace Van / 2009",
     "Plate_No":"ZTT 709-A012",
     "STATUS":"Good condition"
@@ -272,9 +218,7 @@
   {
     "Region":"VIII",
     "Chapter_SubChapter":"Eastern Samar ",
-    "Chapter_Lookup":"Eastern Samar",
-    "Chapter_ID":"56",
-    "No_Ambu":"1",
+    "CODE":"chapter30",
     "BRAND":"Toyota Hiace Van",
     "Plate_No":"WII 801-A036",
     "STATUS":"Good condition"
@@ -282,9 +226,7 @@
   {
     "Region":"XII",
     "Chapter_SubChapter":"General Santos City ",
-    "Chapter_Lookup":"General Santos",
-    "Chapter_ID":"78",
-    "No_Ambu":"1",
+    "CODE":"chapter31",
     "BRAND":"Toyota Hiace Van / 2009",
     "Plate_No":"ZRG 760-A011",
     "STATUS":"Good Running Condition"
@@ -292,9 +234,7 @@
   {
     "Region":"XII",
     "Chapter_SubChapter":"General Santos City ",
-    "Chapter_Lookup":"General Santos",
-    "Chapter_ID":"78",
-    "No_Ambu":"1",
+    "CODE":"chapter31",
     "BRAND":"Ford Ranger 4x4 / 2009",
     "Plate_No":"NOP 857",
     "STATUS":"Aircon at patients area needs repair"
@@ -302,9 +242,7 @@
   {
     "Region":"X",
     "Chapter_SubChapter":"Gingoog City ",
-    "Chapter_Lookup":"Gingoog City",
-    "Chapter_ID":"79",
-    "No_Ambu":"1",
+    "CODE":"chapter32",
     "BRAND":"Kia Besta Van / 1997",
     "Plate_No":"WHM 771",
     "STATUS":"Unserviceable"
@@ -312,9 +250,7 @@
   {
     "Region":"VI",
     "Chapter_SubChapter":"Guimaras ",
-    "Chapter_Lookup":"Guimaras",
-    "Chapter_ID":"57",
-    "No_Ambu":"1",
+    "CODE":"chapter33",
     "BRAND":"Ford Ranger 4x4 / 2007",
     "Plate_No":"ZLU 943-A018",
     "STATUS":"Functional"
@@ -322,9 +258,7 @@
   {
     "Region":"VIII",
     "Chapter_SubChapter":"Hilongos ",
-    "Chapter_Lookup":"Hilongos",
-    "Chapter_ID":"#N/A",
-    "No_Ambu":"1",
+    "CODE":"sub05",
     "BRAND":"Ford Ranger 4x4 / 2009",
     "Plate_No":"ZLU 392-A020",
     "STATUS":"Functional"
@@ -332,9 +266,7 @@
   {
     "Region":"I",
     "Chapter_SubChapter":"Ilocos Sur",
-    "Chapter_Lookup":"Ilocos Sur",
-    "Chapter_ID":"12",
-    "No_Ambu":"1",
+    "CODE":"chapter36",
     "BRAND":"Toyota Hiace Van / 2009",
     "Plate_No":"ZRG 810-A014",
     "STATUS":"Functional"
@@ -342,9 +274,7 @@
   {
     "Region":"VI",
     "Chapter_SubChapter":"Ilo-Ilo ",
-    "Chapter_Lookup":"IloIlo",
-    "Chapter_ID":"58",
-    "No_Ambu":"1",
+    "CODE":"chapter37",
     "BRAND":"Ford Ranger 4x4 / 2009",
     "Plate_No":"NOP 662",
     "STATUS":"Good Running Condition"
@@ -352,9 +282,7 @@
   {
     "Region":"CAR",
     "Chapter_SubChapter":"Kalinga ",
-    "Chapter_Lookup":"Kalinga",
-    "Chapter_ID":"14",
-    "No_Ambu":"1",
+    "CODE":"chapter39",
     "BRAND":"Toyota D4D Hiace Van / 2009",
     "Plate_No":"ZSM 920-A017",
     "STATUS":"Functional"
@@ -362,9 +290,7 @@
   {
     "Region":"I",
     "Chapter_SubChapter":"La Union - SFC ",
-    "Chapter_Lookup":"La Union",
-    "Chapter_ID":"15",
-    "No_Ambu":"1",
+    "CODE":"chapter40",
     "BRAND":"Kia Besta Van / 1999",
     "Plate_No":"WGZ 453",
     "STATUS":"unservicable"
@@ -372,9 +298,7 @@
   {
     "Region":"I",
     "Chapter_SubChapter":"La Union - SFC ",
-    "Chapter_Lookup":"La Union",
-    "Chapter_ID":"15",
-    "No_Ambu":"1",
+    "CODE":"chapter40",
     "BRAND":"Ford Truck / 2000",
     "Plate_No":"SEM 270",
     "STATUS":"unservisable / machine "
@@ -382,9 +306,7 @@
   {
     "Region":"IV-A",
     "Chapter_SubChapter":"Laguna",
-    "Chapter_Lookup":"Laguna",
-    "Chapter_ID":"38",
-    "No_Ambu":"1",
+    "CODE":"chapter41",
     "BRAND":"Kia Besta Van / 1998",
     "Plate_No":"SEL 966",
     "STATUS":"unservisable"
@@ -392,9 +314,7 @@
   {
     "Region":"IV-A",
     "Chapter_SubChapter":"Laguna",
-    "Chapter_Lookup":"Laguna",
-    "Chapter_ID":"38",
-    "No_Ambu":"1",
+    "CODE":"chapter41",
     "BRAND":"Ford Ambulance",
     "Plate_No":"NIS 892",
     "STATUS":"good"
@@ -402,9 +322,7 @@
   {
     "Region":"IV-A",
     "Chapter_SubChapter":"Laguna",
-    "Chapter_Lookup":"Laguna",
-    "Chapter_ID":"38",
-    "No_Ambu":"1",
+    "CODE":"chapter41",
     "BRAND":"Toyota Hiace van / 2013",
     "Plate_No":"WII 791",
     "STATUS":"Functional"
@@ -412,9 +330,7 @@
   {
     "Region":"VII",
     "Chapter_SubChapter":"Lapu-Lapu/Cordova ",
-    "Chapter_Lookup":"Lapu-Lapu",
-    "Chapter_ID":"59",
-    "No_Ambu":"1",
+    "CODE":"chapter42",
     "BRAND":"Kia Besta Van / 1990",
     "Plate_No":"SEF 788",
     "STATUS":"under repair"
@@ -422,19 +338,15 @@
   {
     "Region":"VII",
     "Chapter_SubChapter":"Lapu-Lapu/Cordova ",
-    "Chapter_Lookup":"Lapu-Lapu",
-    "Chapter_ID":"59",
-    "No_Ambu":"1",
+    "CODE":"chapter42",
     "BRAND":"Toyota Grandia / 2009",
     "Plate_No":"NIS 194",
     "STATUS":"Functional"
   },
   {
     "Region":"NCR",
-    "Chapter_SubChapter":"Las Pi–as City Sub Chapter",
-    "Chapter_Lookup":"Las Pinas",
-    "Chapter_ID":"27",
-    "No_Ambu":"1",
+    "Chapter_SubChapter":"Las Pi_as City Sub Chapter",
+    "CODE":"sub09",
     "BRAND":"Ford Ranger 4x4 / 2009",
     "Plate_No":"NIT 962",
     "STATUS":"Functional"
@@ -442,9 +354,7 @@
   {
     "Region":"VIII",
     "Chapter_SubChapter":"Leyte",
-    "Chapter_Lookup":"Leyte",
-    "Chapter_ID":"60",
-    "No_Ambu":"1",
+    "CODE":"chapter43",
     "BRAND":"Toyota Hiace Van / 2009",
     "Plate_No":"ZSZ 322-A001",
     "STATUS":"SERVICEABLE"
@@ -452,9 +362,7 @@
   {
     "Region":"NCR",
     "Chapter_SubChapter":"Malabon City ",
-    "Chapter_Lookup":"Malabon City",
-    "Chapter_ID":"29",
-    "No_Ambu":"1",
+    "CODE":"chapter44",
     "BRAND":"Toyota Hiace Van / 2007",
     "Plate_No":"ZJF 119",
     "STATUS":"SERVICEABLE"
@@ -462,9 +370,7 @@
   {
     "Region":"NCR",
     "Chapter_SubChapter":"Manila ",
-    "Chapter_Lookup":"Manila",
-    "Chapter_ID":"28",
-    "No_Ambu":"1",
+    "CODE":"chapter45",
     "BRAND":"Toyota Hiace Van / 2005",
     "Plate_No":"ZBB 652",
     "STATUS":"under repair"
@@ -472,9 +378,7 @@
   {
     "Region":"NCR",
     "Chapter_SubChapter":"Manila ",
-    "Chapter_Lookup":"Manila",
-    "Chapter_ID":"28",
-    "No_Ambu":"1",
+    "CODE":"chapter45",
     "BRAND":"E350 Ford / 1998",
     "Plate_No":"RHJ 404",
     "STATUS":"Functional"
@@ -482,9 +386,7 @@
   {
     "Region":"V",
     "Chapter_SubChapter":"Mindoro Oriental ",
-    "Chapter_Lookup":"Oriental Mindoro",
-    "Chapter_ID":"43",
-    "No_Ambu":"1",
+    "CODE":"chapter48",
     "BRAND":"E350 Ford /1997",
     "Plate_No":"RHK 514",
     "STATUS":"Functional"
@@ -492,9 +394,7 @@
   {
     "Region":"X",
     "Chapter_SubChapter":"Misamis Oriental - Cagayan de Oro City ",
-    "Chapter_Lookup":"Misamis Oriental",
-    "Chapter_ID":"84",
-    "No_Ambu":"1",
+    "CODE":"chapter50",
     "BRAND":"Ford Ranger 4x4 2009",
     "Plate_No":"NOP 612",
     "STATUS":"Functional"
@@ -502,9 +402,7 @@
   {
     "Region":"X",
     "Chapter_SubChapter":"Misamis Oriental - Cagayan de Oro City ",
-    "Chapter_Lookup":"Misamis Oriental",
-    "Chapter_ID":"84",
-    "No_Ambu":"1",
+    "CODE":"chapter50",
     "BRAND":"Nissan (Japan) / 1993",
     "Plate_No":"ZRL 713",
     "STATUS":"Functional"
@@ -512,9 +410,7 @@
   {
     "Region":"VI",
     "Chapter_SubChapter":"Negros Occidental - Bacolod City ",
-    "Chapter_Lookup":"Negros Occidental",
-    "Chapter_ID":"61",
-    "No_Ambu":"1",
+    "CODE":"chapter 51",
     "BRAND":"Toyota (Japan) / 1993",
     "Plate_No":"ZRL 673",
     "STATUS":"repaired"
@@ -522,9 +418,7 @@
   {
     "Region":"VI",
     "Chapter_SubChapter":"Negros Occidental - Bacolod City ",
-    "Chapter_Lookup":"Negros Occidental",
-    "Chapter_ID":"61",
-    "No_Ambu":"1",
+    "CODE":"chapter 51",
     "BRAND":"Toyota Hiace (new) / 2013",
     "Plate_No":"",
     "STATUS":"Functional"
@@ -532,9 +426,7 @@
   {
     "Region":"NCR",
     "Chapter_SubChapter":"NHQ-",
-    "Chapter_Lookup":"NHQ-",
-    "Chapter_ID":"#N/A",
-    "No_Ambu":"1",
+    "CODE":"nhq01",
     "BRAND":"Toyota Hiace (new) / 2013",
     "Plate_No":"",
     "STATUS":"Functional"
@@ -542,9 +434,7 @@
   {
     "Region":"NCR",
     "Chapter_SubChapter":"NHQ-",
-    "Chapter_Lookup":"NHQ-",
-    "Chapter_ID":"#N/A",
-    "No_Ambu":"1",
+    "CODE":"nhq01",
     "BRAND":"Toyota Hi Lux / 2013",
     "Plate_No":"",
     "STATUS":"Samar Leyte"
@@ -552,9 +442,7 @@
   {
     "Region":"NCR",
     "Chapter_SubChapter":"NHQ-",
-    "Chapter_Lookup":"NHQ-",
-    "Chapter_ID":"#N/A",
-    "No_Ambu":"1",
+    "CODE":"nhq01",
     "BRAND":"ICRC Hi-Lux / 2014",
     "Plate_No":"",
     "STATUS":"Functional"
@@ -562,9 +450,7 @@
   {
     "Region":"NCR",
     "Chapter_SubChapter":"NHQ-",
-    "Chapter_Lookup":"NHQ-",
-    "Chapter_ID":"#N/A",
-    "No_Ambu":"1",
+    "CODE":"nhq01",
     "BRAND":"Ford Donation / 2014",
     "Plate_No":"",
     "STATUS":"Functional"
@@ -572,9 +458,7 @@
   {
     "Region":"NCR",
     "Chapter_SubChapter":"NHQ-",
-    "Chapter_Lookup":"NHQ-",
-    "Chapter_ID":"#N/A",
-    "No_Ambu":"1",
+    "CODE":"nhq01",
     "BRAND":"Toyota Hiace Van / 2005",
     "Plate_No":"ZBB 662",
     "STATUS":"Functional"
@@ -582,9 +466,7 @@
   {
     "Region":"NCR",
     "Chapter_SubChapter":"NHQ-",
-    "Chapter_Lookup":"NHQ-",
-    "Chapter_ID":"#N/A",
-    "No_Ambu":"1",
+    "CODE":"nhq01",
     "BRAND":"Ford E150 Van Type /2014",
     "Plate_No":"WTH 494",
     "STATUS":"Functional"
@@ -592,9 +474,7 @@
   {
     "Region":"NCR",
     "Chapter_SubChapter":"NHQ-",
-    "Chapter_Lookup":"NHQ-",
-    "Chapter_ID":"#N/A",
-    "No_Ambu":"1",
+    "CODE":"nhq01",
     "BRAND":"Toyota Hiace Van / 2009",
     "Plate_No":"ZSZ 354-A003",
     "STATUS":"Functional"
@@ -602,9 +482,7 @@
   {
     "Region":"NCR",
     "Chapter_SubChapter":"NHQ-",
-    "Chapter_Lookup":"NHQ-",
-    "Chapter_ID":"#N/A",
-    "No_Ambu":"1",
+    "CODE":"nhq01",
     "BRAND":"Toyota Hiace Van / 1991",
     "Plate_No":"ZRL 663-A026",
     "STATUS":"Functional"
@@ -612,9 +490,7 @@
   {
     "Region":"NCR",
     "Chapter_SubChapter":"NHQ-",
-    "Chapter_Lookup":"NHQ-",
-    "Chapter_ID":"#N/A",
-    "No_Ambu":"1",
+    "CODE":"nhq01",
     "BRAND":"Toyota Hiace Van / 2009",
     "Plate_No":"ZTT286-A002",
     "STATUS":"Functional"
@@ -622,9 +498,7 @@
   {
     "Region":"NCR",
     "Chapter_SubChapter":"NHQ-",
-    "Chapter_Lookup":"NHQ-",
-    "Chapter_ID":"#N/A",
-    "No_Ambu":"1",
+    "CODE":"nhq01",
     "BRAND":"Kia Besta Van / 1998",
     "Plate_No":"SFC 598",
     "STATUS":"Functional"
@@ -632,9 +506,7 @@
   {
     "Region":"NCR",
     "Chapter_SubChapter":"NHQ-",
-    "Chapter_Lookup":"NHQ-",
-    "Chapter_ID":"#N/A",
-    "No_Ambu":"1",
+    "CODE":"nhq01",
     "BRAND":"Kia Besta Van / 1997",
     "Plate_No":"WNG 584",
     "STATUS":"Functional"
@@ -642,9 +514,7 @@
   {
     "Region":"NCR",
     "Chapter_SubChapter":"NHQ-",
-    "Chapter_Lookup":"NHQ-",
-    "Chapter_ID":"#N/A",
-    "No_Ambu":"1",
+    "CODE":"nhq01",
     "BRAND":"Toyota Hiace Van / 2007",
     "Plate_No":"ZLC 152",
     "STATUS":"Functional"
@@ -652,9 +522,7 @@
   {
     "Region":"NCR",
     "Chapter_SubChapter":"NHQ-",
-    "Chapter_Lookup":"NHQ-",
-    "Chapter_ID":"#N/A",
-    "No_Ambu":"1",
+    "CODE":"nhq01",
     "BRAND":"Ford E350 / 2003",
     "Plate_No":"RLL 783",
     "STATUS":"Functional"
@@ -662,9 +530,7 @@
   {
     "Region":"VIII",
     "Chapter_SubChapter":"Northern Samar",
-    "Chapter_Lookup":"Northern Samar",
-    "Chapter_ID":"63",
-    "No_Ambu":"1",
+    "CODE":"chapter53",
     "BRAND":"Foton Van / 2010",
     "Plate_No":"",
     "STATUS":"Functional"
@@ -672,9 +538,7 @@
   {
     "Region":"III",
     "Chapter_SubChapter":"Nueva Ecija ",
-    "Chapter_Lookup":"Nueva Ecija",
-    "Chapter_ID":"17",
-    "No_Ambu":"1",
+    "CODE":"chapter54",
     "BRAND":"Toyota Hiace Van / 1995",
     "Plate_No":"ZRL 728-A027",
     "STATUS":"under repair"
@@ -682,9 +546,7 @@
   {
     "Region":"III",
     "Chapter_SubChapter":"Nueva Ecija ",
-    "Chapter_Lookup":"Nueva Ecija",
-    "Chapter_ID":"17",
-    "No_Ambu":"1",
+    "CODE":"chapter54",
     "BRAND":"Toyota Hiace Van / 2009",
     "Plate_No":"ZTT 759-A004",
     "STATUS":"Functional"
@@ -692,9 +554,7 @@
   {
     "Region":"V",
     "Chapter_SubChapter":"Occidental Mindoro Sub Chapter",
-    "Chapter_Lookup":"Occidental Mindoro",
-    "Chapter_ID":"42",
-    "No_Ambu":"1",
+    "CODE":"sub13",
     "BRAND":"Toyota Hi Ace / 2004",
     "Plate_No":"XRK 296",
     "STATUS":"Functional"
@@ -702,9 +562,7 @@
   {
     "Region":"III",
     "Chapter_SubChapter":"Olongapo City",
-    "Chapter_Lookup":"Olongapo City",
-    "Chapter_ID":"19",
-    "No_Ambu":"1",
+    "CODE":"chapter56",
     "BRAND":"Toyota Hi Ace / 2009",
     "Plate_No":"ZRG 770",
     "STATUS":"Good "
@@ -712,9 +570,7 @@
   {
     "Region":"III",
     "Chapter_SubChapter":"Olongapo City",
-    "Chapter_Lookup":"Olongapo City",
-    "Chapter_ID":"19",
-    "No_Ambu":"1",
+    "CODE":"chapter56",
     "BRAND":"Ford Ranger 4x4 / 2007",
     "Plate_No":"ZLS 231-A023",
     "STATUS":"Functional"
@@ -722,9 +578,7 @@
   {
     "Region":"III",
     "Chapter_SubChapter":"Olongapo City",
-    "Chapter_Lookup":"Olongapo City",
-    "Chapter_ID":"19",
-    "No_Ambu":"1",
+    "CODE":"chapter56",
     "BRAND":"Ford Ranger 4x4 / 2007",
     "Plate_No":"ZLW 674-A024",
     "STATUS":"Functional"
@@ -732,9 +586,7 @@
   {
     "Region":"III",
     "Chapter_SubChapter":"Olongapo City",
-    "Chapter_Lookup":"Olongapo City",
-    "Chapter_ID":"19",
-    "No_Ambu":"1",
+    "CODE":"chapter56",
     "BRAND":"Toyota Hiace van/ 2013",
     "Plate_No":"WII 842",
     "STATUS":"Good Running Condition"
@@ -742,9 +594,7 @@
   {
     "Region":"V",
     "Chapter_SubChapter":"Palawan Chapter",
-    "Chapter_Lookup":"Palawan",
-    "Chapter_ID":"30",
-    "No_Ambu":"1",
+    "CODE":"chapter59",
     "BRAND":"Ford Ranger 4x4 / 2009",
     "Plate_No":"NIS 872",
     "STATUS":"Functional"
@@ -752,9 +602,7 @@
   {
     "Region":"III",
     "Chapter_SubChapter":"Pampanga - Angeles City",
-    "Chapter_Lookup":"Pampanga",
-    "Chapter_ID":"20",
-    "No_Ambu":"1",
+    "CODE":"chapter60",
     "BRAND":"Ford Ranger 4x4 / 2009",
     "Plate_No":"NIW 151",
     "STATUS":"Functional "
@@ -762,9 +610,7 @@
   {
     "Region":"I",
     "Chapter_SubChapter":"Pangasinan Dagupan City SCC",
-    "Chapter_Lookup":"Pangasinan",
-    "Chapter_ID":"21",
-    "No_Ambu":"1",
+    "CODE":"chapter61",
     "BRAND":"Ford Ranger 4x4 / 2009",
     "Plate_No":"NIE 582",
     "STATUS":"Functional"
@@ -772,9 +618,7 @@
   {
     "Region":"NCR",
     "Chapter_SubChapter":"Pasay City ",
-    "Chapter_Lookup":"Pasay City",
-    "Chapter_ID":"31",
-    "No_Ambu":"1",
+    "CODE":"chapter62",
     "BRAND":"Ford Ranger 4x4 / 2009",
     "Plate_No":"NOP 944",
     "STATUS":"Functional"
@@ -782,9 +626,7 @@
   {
     "Region":"NCR",
     "Chapter_SubChapter":"Quezon City ",
-    "Chapter_Lookup":"Quezon City",
-    "Chapter_ID":"32",
-    "No_Ambu":"1",
+    "CODE":"chapter63",
     "BRAND":"Kia Besta Van / 1997",
     "Plate_No":"FEH 828",
     "STATUS":"Functional"
@@ -792,9 +634,7 @@
   {
     "Region":"NCR",
     "Chapter_SubChapter":"Quezon City ",
-    "Chapter_Lookup":"Quezon City",
-    "Chapter_ID":"32",
-    "No_Ambu":"1",
+    "CODE":"chapter63",
     "BRAND":"Toyota Hiace Van / 2009",
     "Plate_No":"ZRG 820-A016",
     "STATUS":"Functional"
@@ -802,9 +642,7 @@
   {
     "Region":"NCR",
     "Chapter_SubChapter":"Quezon City ",
-    "Chapter_Lookup":"Quezon City",
-    "Chapter_ID":"32",
-    "No_Ambu":"1",
+    "CODE":"chapter63",
     "BRAND":"Ford Ranger 4x4 / 2009",
     "Plate_No":"NIT 951",
     "STATUS":"Functional"
@@ -812,9 +650,7 @@
   {
     "Region":"NCR",
     "Chapter_SubChapter":"Quezon City ",
-    "Chapter_Lookup":"Quezon City",
-    "Chapter_ID":"32",
-    "No_Ambu":"1",
+    "CODE":"chapter63",
     "BRAND":"Ford Ranger 4x4 / 2009",
     "Plate_No":"NIL 552",
     "STATUS":"Functional"
@@ -822,9 +658,7 @@
   {
     "Region":"NCR",
     "Chapter_SubChapter":"Quezon City ",
-    "Chapter_Lookup":"Quezon City",
-    "Chapter_ID":"32",
-    "No_Ambu":"1",
+    "CODE":"chapter63",
     "BRAND":"Kia Besta Van / 1997",
     "Plate_No":"GJX 349",
     "STATUS":"poor"
@@ -832,9 +666,7 @@
   {
     "Region":"NCR",
     "Chapter_SubChapter":"Quezon City ",
-    "Chapter_Lookup":"Quezon City",
-    "Chapter_ID":"32",
-    "No_Ambu":"1",
+    "CODE":"chapter63",
     "BRAND":"Toyota Hiace Van / 2009",
     "Plate_No":"ZSM 940-A015",
     "STATUS":"Functional"
@@ -842,9 +674,7 @@
   {
     "Region":"NCR",
     "Chapter_SubChapter":"Quezon City ",
-    "Chapter_Lookup":"Quezon City",
-    "Chapter_ID":"32",
-    "No_Ambu":"1",
+    "CODE":"chapter63",
     "BRAND":"Nissan Caravan / 1991",
     "Plate_No":"ZRL-653-A030",
     "STATUS":"Functional"
@@ -852,9 +682,7 @@
   {
     "Region":"IV-A",
     "Chapter_SubChapter":"Quezon Lucena City ",
-    "Chapter_Lookup":"Quezon",
-    "Chapter_ID":"40",
-    "No_Ambu":"1",
+    "CODE":"chpater64",
     "BRAND":"Ford Ranger 4x4 / 2009",
     "Plate_No":"NOP 642",
     "STATUS":"Functional"
@@ -862,9 +690,7 @@
   {
     "Region":"II",
     "Chapter_SubChapter":"Quirino ",
-    "Chapter_Lookup":"Quirino",
-    "Chapter_ID":"22",
-    "No_Ambu":"1",
+    "CODE":"chapter65",
     "BRAND":"Ford Ranger 4x4 / 2009",
     "Plate_No":"NIL 522",
     "STATUS":"Functional"
@@ -872,9 +698,7 @@
   {
     "Region":"NCR",
     "Chapter_SubChapter":"Rizal Chapter (Main)",
-    "Chapter_Lookup":"Rizal",
-    "Chapter_ID":"33",
-    "No_Ambu":"1",
+    "CODE":"chapter66",
     "BRAND":"Ford Ranger 4x4 / 2009",
     "Plate_No":"NIL 541",
     "STATUS":"Functional"
@@ -882,9 +706,7 @@
   {
     "Region":"NCR",
     "Chapter_SubChapter":"Rizal Chapter (Main)",
-    "Chapter_Lookup":"Rizal",
-    "Chapter_ID":"33",
-    "No_Ambu":"1",
+    "CODE":"chapter66",
     "BRAND":"Ford Ranger 4x4 / 2007",
     "Plate_No":"ZLS 382-A021",
     "STATUS":"Functional"
@@ -892,9 +714,7 @@
   {
     "Region":"NCR",
     "Chapter_SubChapter":"Rizal Chapter (Main)",
-    "Chapter_Lookup":"Rizal",
-    "Chapter_ID":"33",
-    "No_Ambu":"1",
+    "CODE":"chapter66",
     "BRAND":"Ford Ranger 4x4 / 2009",
     "Plate_No":"NIT 961",
     "STATUS":"Functional"
@@ -902,9 +722,7 @@
   {
     "Region":"II",
     "Chapter_SubChapter":"Santiago City Sub Chapter",
-    "Chapter_Lookup":"Santiago City",
-    "Chapter_ID":"23",
-    "No_Ambu":"1",
+    "CODE":"sub14",
     "BRAND":"Toyota Hi-Ace Van / 1993",
     "Plate_No":"",
     "STATUS":"Functional"
@@ -912,9 +730,7 @@
   {
     "Region":"II",
     "Chapter_SubChapter":"Santiago City Sub Chapter",
-    "Chapter_Lookup":"Santiago City",
-    "Chapter_ID":"23",
-    "No_Ambu":"1",
+    "CODE":"sub14",
     "BRAND":"Ford Ranger 4x4 / 2009",
     "Plate_No":"NOP 502",
     "STATUS":"Functional"
@@ -922,9 +738,7 @@
   {
     "Region":"XII",
     "Chapter_SubChapter":"South Cotabato ",
-    "Chapter_Lookup":"South Cotabato",
-    "Chapter_ID":"87",
-    "No_Ambu":"1",
+    "CODE":"chapter70",
     "BRAND":"Ford Ranger 4x4 / 2007",
     "Plate_No":"ZLS 241-A019",
     "STATUS":"Functional"
@@ -932,9 +746,7 @@
   {
     "Region":"ARMM",
     "Chapter_SubChapter":"Sulu ",
-    "Chapter_Lookup":"Sulu",
-    "Chapter_ID":"89",
-    "No_Ambu":"1",
+    "CODE":"chapter73",
     "BRAND":"Kia Besta Van / 1998",
     "Plate_No":"KCE 433",
     "STATUS":"poor"
@@ -942,9 +754,7 @@
   {
     "Region":"XIII",
     "Chapter_SubChapter":"Surigao del Sur ",
-    "Chapter_Lookup":"Surigao del Sur",
-    "Chapter_ID":"91",
-    "No_Ambu":"1",
+    "CODE":"chapter75",
     "BRAND":"Ford Ranger 4x4 / 2009",
     "Plate_No":"NIE 592",
     "STATUS":"minor repair"
@@ -952,9 +762,7 @@
   {
     "Region":"III",
     "Chapter_SubChapter":"Tarlac",
-    "Chapter_Lookup":"Tarlac",
-    "Chapter_ID":"24",
-    "No_Ambu":"1",
+    "CODE":"chapter77",
     "BRAND":"Ford Ranger 4x4 / 2007",
     "Plate_No":"ZPY 669",
     "STATUS":"Functional"
@@ -962,9 +770,7 @@
   {
     "Region":"NCR",
     "Chapter_SubChapter":"Valenzuela City",
-    "Chapter_Lookup":"Valenzuela",
-    "Chapter_ID":"34",
-    "No_Ambu":"1",
+    "CODE":"chapter78",
     "BRAND":"Kia Besta Van / 1997",
     "Plate_No":"WEL 709",
     "STATUS":"Functional"
@@ -972,9 +778,7 @@
   {
     "Region":"VIII",
     "Chapter_SubChapter":"Western Samar",
-    "Chapter_Lookup":"Western Samar",
-    "Chapter_ID":"67",
-    "No_Ambu":"1",
+    "CODE":"chapter79",
     "BRAND":"Ford Ranger 4x4 / 2009",
     "Plate_No":"NOP 622",
     "STATUS":"Functional"
@@ -982,9 +786,7 @@
   {
     "Region":"I",
     "Chapter_SubChapter":"Zambales ",
-    "Chapter_Lookup":"Zambales",
-    "Chapter_ID":"25",
-    "No_Ambu":"1",
+    "CODE":"chapter80",
     "BRAND":"Kia Besta Van / 1998",
     "Plate_No":"LEB 314",
     "STATUS":"Functional"
@@ -992,9 +794,7 @@
   {
     "Region":"IX",
     "Chapter_SubChapter":"Zamboanga City",
-    "Chapter_Lookup":"Zamboanga City",
-    "Chapter_ID":"94",
-    "No_Ambu":"1",
+    "CODE":"chapter81",
     "BRAND":"Ford Ranger 4x4 / 2009",
     "Plate_No":"NOP 652",
     "STATUS":"Functional"
@@ -1002,9 +802,7 @@
   {
     "Region":"IX",
     "Chapter_SubChapter":"Zamboanga City",
-    "Chapter_Lookup":"Zamboanga City",
-    "Chapter_ID":"94",
-    "No_Ambu":"1",
+    "CODE":"chapter82",
     "BRAND":"Ford Ranger 4x4 / 2009",
     "Plate_No":"NOP 672",
     "STATUS":"Functional"
@@ -1012,9 +810,7 @@
   {
     "Region":"IX",
     "Chapter_SubChapter":"Zamboanga City",
-    "Chapter_Lookup":"Zamboanga City",
-    "Chapter_ID":"94",
-    "No_Ambu":"1",
+    "CODE":"chapter83",
     "BRAND":"Kia Besta Van / 1997",
     "Plate_No":"LMA 930",
     "STATUS":"poor"
@@ -1022,9 +818,7 @@
   {
     "Region":"IX",
     "Chapter_SubChapter":"Zamboanga City",
-    "Chapter_Lookup":"Zamboanga City",
-    "Chapter_ID":"94",
-    "No_Ambu":"1",
+    "CODE":"chapter84",
     "BRAND":"Ford Ranger 4x4 / 2009",
     "Plate_No":"NIE 552",
     "STATUS":"Functional"
@@ -1032,9 +826,7 @@
   {
     "Region":"IX",
     "Chapter_SubChapter":"Zamboanga del Norte ",
-    "Chapter_Lookup":"Zamboanga del Norte",
-    "Chapter_ID":"95",
-    "No_Ambu":"1",
+    "CODE":"chapter82",
     "BRAND":"Ford Ranger 4x4 / 2009",
     "Plate_No":"NOP 632",
     "STATUS":"Functional"

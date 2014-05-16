@@ -9,30 +9,65 @@ var regionList = [];
 var displayedChapters = [];
 var chapterMarkers;
 var ambulanceData = [];
+var ambulanceLocations = [];
+var markersBounds = [];
 
-// define red cross map icon for chapter markers
-var chapterIcon = L.icon({
-  iconUrl: 'img/redcross.png',
-  iconSize:     [12, 12], // size of the icon
-  iconAnchor:   [6, 6], // point of the icon which will correspond to marker's location
-  popupAnchor:  [0, -8] // point from which the popup should open relative to the iconAnchor
+// define map icons
+var nhqFocusIcon = L.icon({
+  iconUrl: 'img/nhq_focus.png',
+  iconSize:     [20, 29], // size of the icon
+  iconAnchor:   [10, 19], // point of the icon which will correspond to marker's location
+  popupAnchor:  [0, -21] // point from which the popup should open relative to the iconAnchor
 });
+var nhqDimIcon = L.icon({
+  iconUrl: 'img/nhq_dim.png',
+  iconSize:     [20, 29], // size of the icon
+  iconAnchor:   [10, 19], // point of the icon which will correspond to marker's location
+  popupAnchor:  [0, -21] // point from which the popup should open relative to the iconAnchor
+});
+var chapterFocusIcon = L.icon({
+  iconUrl: 'img/chapter_focus.png',
+  iconSize:     [20, 20], // size of the icon
+  iconAnchor:   [10, 10], // point of the icon which will correspond to marker's location
+  popupAnchor:  [0, -12] // point from which the popup should open relative to the iconAnchor
+});
+var chapterDimIcon = L.icon({
+  iconUrl: 'img/chapter_dim.png',
+  iconSize:     [20, 20], // size of the icon
+  iconAnchor:   [10, 10], // point of the icon which will correspond to marker's location
+  popupAnchor:  [0, -12] // point from which the popup should open relative to the iconAnchor
+});
+var subchapterFocusIcon = L.icon({
+  iconUrl: 'img/subchapter_focus.png',
+  iconSize:     [20, 20], // size of the icon
+  iconAnchor:   [10, 10], // point of the icon which will correspond to marker's location
+  popupAnchor:  [0, -12] // point from which the popup should open relative to the iconAnchor
+});
+var subchapterDimIcon = L.icon({
+  iconUrl: 'img/subchapter_dim.png',
+  iconSize:     [20, 20], // size of the icon
+  iconAnchor:   [10, 10], // point of the icon which will correspond to marker's location
+  popupAnchor:  [0, -12] // point from which the popup should open relative to the iconAnchor
+});
+
       
 // initialize leaflet map
 var map = L.map('map', {
     center: [11, 121],
     zoom: 4,
+    zoomControl: false,
+    maxZoom: 15,
     attributionControl: false,
-    doubleClickZoom: false,
-    dragging: false,
+    // doubleClickZoom: false,
+    // dragging: false,
     scrollWheelZoom: false,
-    zoomControl: false
-
 });
+
+L.control.zoom({position: 'topright'} ).addTo(map);
 
 // global variables for leaflet map layers
 var geojson = L.geoJson();
-var chapterLayer = L.featureGroup();  
+var markers = new L.MarkerClusterGroup();  
 
 // add attribution to leaflet map
 var attrib = new L.Control.Attribution({
@@ -94,7 +129,7 @@ function getAmbulanceData() {
 function getChapterData() {
   $.ajax({
     type: 'GET',
-    url: 'data/PRC_chapters.json',
+    url: 'data/PRC_chapters_2014-05-15.geojson',
     contentType: 'application/json',
     dataType: 'json',
     timeout: 10000,
@@ -109,8 +144,8 @@ function getChapterData() {
 }
 
 function createRegionsDropdown() {
-    $.each(chapterData, function (index, chapter) {
-        var thisRegion = chapter.properties.Region;    
+    $.each(chapterData.features, function (index, chapter) {
+        var thisRegion = chapter.properties.REGION;    
         if ($.inArray(thisRegion, regionList) === -1){
           regionList.push(thisRegion);
         }
@@ -123,68 +158,117 @@ function createRegionsDropdown() {
         var listItemHtml = '<li><a href="#" onClick="regionSelect(' +"'"+ item +"'"+ '); return false;">' + item + "</li>"
         $('#dropdown-menu-regions').append(listItemHtml);       
     }
-    regionSelect("All Regions");
+    getAmbulanceLocations();
+    
 }
 
+function getAmbulanceLocations(){
+  $.each(ambulanceData, function (index, ambulance){
+    var thisLocation = ambulance.CODE;
+    if ($.inArray(thisLocation, ambulanceLocations) === -1){
+      ambulanceLocations.push(thisLocation);
+    }
+  });
+  regionSelect("All Regions");
+}
+
+
+function setIconType(feature){
+  if(feature.properties.TYPE === "NHQ"){
+    if($.inArray(feature.properties.CODE, ambulanceLocations) !== -1){
+      return nhqFocusIcon;
+    } else {
+      return nhqDimIcon;
+    }
+  } 
+  if(feature.properties.TYPE === "CHAPTER"){
+    if($.inArray(feature.properties.CODE, ambulanceLocations) !== -1){
+      return chapterFocusIcon;
+    } else {
+      return chapterDimIcon;
+    }
+  } 
+  if(feature.properties.TYPE === "SUB-CHAPTER"){
+    if($.inArray(feature.properties.CODE, ambulanceLocations) !== -1){
+      return subchapterFocusIcon;
+    } else {
+      return subchapterDimIcon;
+    }
+  }    
+}
+
+
 function regionSelect(region) {
-  $("#selectedRegion").html(region);
+  $('#selectedRegion').html(region);
   $('#ambulanceInfo').empty();
-  map.removeLayer(chapterLayer);
-  chapterLayer = L.featureGroup(); 
+  map.removeLayer(markers);
+  markers = new L.MarkerClusterGroup({
+    maxClusterRadius: 15,
+    showCoverageOnHover:false, 
+    // spiderfyDistanceMultiplier:2,
+    iconCreateFunction: function(cluster) {
+      return new L.DivIcon({ html:'<div></div>', className: 'marker-cluster', iconSize: new L.Point(20, 20) });
+    }
+  });  
   displayedChapters = [];
-  $.each(chapterData, function(index, chapter){
-    if(chapter.properties.Region === region || region === "All Regions"){
+  $.each(chapterData.features, function(index, chapter){
+    if(chapter.properties.REGION === region || region === "All Regions"){
       displayedChapters.push(chapter);
     }
   });
-  $.each(displayedChapters, function(index, chapter){
-    var thisMarker = L.geoJson(chapter, {
-      pointToLayer: function (feature, latlng) {
-        return L.marker(latlng,{icon: chapterIcon});   
-      },  
-      onEachFeature: onEachChapter         
-    });
-    chapterLayer.addLayer(thisMarker);
+  marker = L.geoJson(displayedChapters, {
+    pointToLayer: function (feature, latlng) {
+      return L.marker(latlng, {icon: setIconType(feature)});
+    },
+    onEachFeature: onEachChapter
   });
-  chapterLayer.addTo(map);
-
-  var markersBounds = chapterLayer.getBounds();
+  markers.addLayer(marker);
+  markers.addTo(map);
+  markersBounds = markers.getBounds();
   map.fitBounds(markersBounds);
-  // recreate chapter dropdown menu with only displayed chapters
+  // create chapter dropdown menu with only displayed chapters
   createChaptersDropdowns(); 
 };
 
 function createChaptersDropdowns(region) {
-  var chapterNamesList = [];
+  var chapterNameList = [];
   $('#dropdown-menu-chapters').empty();
   $.each(displayedChapters, function (index, chapter) {
-      chapterNamesList.push(chapter.properties.Chapter);    
+      chapterNameList.push(chapter.properties.NAME);    
   });
   // sort so that the chapters appear in alphabetical order in dropdown
-  chapterNamesList = chapterNamesList.sort(); 
+  chapterNameList = chapterNameList.sort(); 
   // create item elements in dropdown list   
-  for(var i = 0; i < chapterNamesList.length; i++) {
-      var item = chapterNamesList[i];
-      var listItemHtml = '<li><a href="#" onClick="chapterSelect(' +"'"+ item +"'"+ '); return false;">' + item + "</li>"
+  for(var i = 0; i < chapterNameList.length; i++) {
+      var thisChapterName = chapterNameList[i];
+      var listItemHtml = '<li><a href="#" onClick="chapterSelect(' +"'"+ thisChapterName +"'"+ '); return false;">' + thisChapterName + "</li>"
       $('#dropdown-menu-chapters').append(listItemHtml);       
-  }
+  }  
 }
 
-function chapterSelect(chapter) {
+function chapterSelect(name) {
+  var thisChapterCode = "";
+  var thisChapterType = "";
+  $.each(chapterData.features, function(index, chapter){
+    if(chapter.properties.NAME === name){
+      thisChapterCode = chapter.properties.CODE;
+      thisChapterType = chapter.properties.TYPE.toLowerCase();
+    }
+  });
   $('#ambulanceInfo').empty();
   // find all ambulances in data for the selected chapter
   var selectedChapterAmbulances = [];
   $.each(ambulanceData, function (index, ambulance){
-    if(chapter === ambulance.Chapter_Lookup){
+    if(thisChapterCode === ambulance.CODE){
       selectedChapterAmbulances.push(ambulance);
     }
   });
   // if no ambulances are found in the data, tell the user
   if(selectedChapterAmbulances.length === 0){
-    $('#ambulanceInfo').append(chapter + ". No ambulance at this location.");
+    $('#ambulanceInfo').append("<h4>" + name + " <small>(" + thisChapterType + ")</small></h4> No ambulance at this location.");
   } else {
     // if there are ambulances, display the data for each in the info side bar 
-    $('#ambulanceInfo').append("<h4>" + chapter + "</h4>");
+    $('#ambulanceInfo').append("<h4>" + name + " <small>(" + thisChapterType + ")</small></h4>");
     for(var i = 0; i < selectedChapterAmbulances.length; i++) {
       var item = selectedChapterAmbulances[i];
       var ambulanceHtml = '<div><img class="ambulanceIcon" src="img/ambulance_OCHAremix.png" />' +
@@ -197,22 +281,33 @@ function chapterSelect(chapter) {
 
 // define events attached to each marker
 function onEachChapter(feature, layer){
-  layer.bindPopup(feature.properties.Chapter);
+  layer.bindPopup(feature.properties.NAME);
   layer.on('click', function(e) {
     markerClick(e);
   });
 }
 
+function zoomOut(){
+  map.fitBounds(markersBounds);
+} 
+
 // on marker click display ambulance data for that chapter
 function markerClick(e){
   var clickTarget = e.target;
-  chapterSelect(clickTarget.feature.properties.Chapter);
+  chapterSelect(clickTarget.feature.properties.NAME);
 }
 
 // show disclaimer text on click of dislcaimer link
 function showDisclaimer() {
     window.alert("The maps on this page do not imply the expression of any opinion on the part of the Philippine Red Cross concerning the legal status of a territory or of its authorities. Boundary data from GADM.");
 }
+
+// adjust map div height on screen resize
+$(window).resize(function(){
+  mapHeight = $(window).height() - 90;
+  $("#map").height(mapHeight);
+  $("#infoWrapper").height(mapHeight);
+});
 
 // start function chain for page build
 getWorld();

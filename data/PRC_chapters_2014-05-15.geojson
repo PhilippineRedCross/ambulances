@@ -1,0 +1,2429 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.61798,
+          17.59834
+        ]
+      },
+      "properties": {
+        "NAME": "ABRA",
+        "TYPE": "CHAPTER",
+        "CODE": "chapter01",
+        "ADDRESS": "Taft Street, Bangued, Abra 2800",
+        "REGION": "NORTHERN & CENTRAL LUZON",
+        "WEBSITE": "abra@redcross.org.ph",
+        "TELEPHONE": "074-7525393",
+        "FAX": "",
+        "ADMINISTRA": "Mr. Manuel James Laygo",
+        "CONTACT": "0917-6974047",
+        "CHAIRMAN": "Dir. Crescencio  J. Calina",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.52558,
+          8.95957
+        ]
+      },
+      "properties": {
+        "NAME": "AGUSAN DEL NORTE - BUTUAN CITY",
+        "TYPE": "CHAPTER",
+        "CODE": "chapter02",
+        "ADDRESS": "Capitol Drive, Butuan City 8600",
+        "REGION": "MINDANAO REGION",
+        "WEBSITE": "agusan.norte@redcross.org.ph",
+        "TELEPHONE": "085-3428521",
+        "FAX": "085-8159977",
+        "ADMINISTRA": "Mr. Teodoro R. Cairo",
+        "CONTACT": "0918-9184956",
+        "CHAIRMAN": "Felixberto L. Guiritan",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.89779,
+          8.60213
+        ]
+      },
+      "properties": {
+        "NAME": "AGUSAN DEL SUR",
+        "TYPE": "CHAPTER",
+        "CODE": "chapter03",
+        "ADDRESS": "Government Center, Patin-ay, Prosperidad, Agusan del Sur 8500",
+        "REGION": "MINDANAO REGION",
+        "WEBSITE": "agusan.sur@redcross.org.ph",
+        "TELEPHONE": "085-3437195",
+        "FAX": "085-3437195",
+        "ADMINISTRA": "Ms. Christyll D. Basan",
+        "CONTACT": "0920-9548546",
+        "CHAIRMAN": "Dir. Solomon Bilaoen, Jr.",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.3649,
+          11.71019
+        ]
+      },
+      "properties": {
+        "NAME": "AKLAN",
+        "TYPE": "CHAPTER",
+        "CODE": "chapter04",
+        "ADDRESS": "F. Quimpo Street, Kalibo, Aklan 5600",
+        "REGION": "VISAYAS REGION",
+        "WEBSITE": "aklan@redcross.org.ph",
+        "TELEPHONE": "036-2681425",
+        "FAX": "",
+        "ADMINISTRA": "Mrs. Arcely P. Pelayo",
+        "CONTACT": "0917-3283124",
+        "CHAIRMAN": "Atty. Ronquillo C. Tolentino",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.98484,
+          16.15507
+        ]
+      },
+      "properties": {
+        "NAME": "ALAMINOS CITY - WESTERN PANGASINAN",
+        "TYPE": "CHAPTER",
+        "CODE": "chapter05",
+        "ADDRESS": "WPDH Compound, Sabaro, Poblacion, Alaminos City, 2404 Pangasinan",
+        "REGION": "NORTHERN & CENTRAL LUZON",
+        "WEBSITE": "alaminos@redcross.org.ph",
+        "TELEPHONE": "075-5516356",
+        "FAX": "075-5514636",
+        "ADMINISTRA": "Mrs. Mylene O. Manalastas",
+        "CONTACT": "0920-9460901",
+        "CHAIRMAN": "Dir. Arthur F. Celeste",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.7327,
+          13.13857
+        ]
+      },
+      "properties": {
+        "NAME": "ALBAY - LEGASPI CITY",
+        "TYPE": "CHAPTER",
+        "CODE": "chapter06",
+        "ADDRESS": "Corner Gov. Locsin and Fr. J.L.Bates Streets, Albay District, Legaspi City 4500",
+        "REGION": "BICOL REGION",
+        "WEBSITE": "albay@redcross.org.ph",
+        "TELEPHONE": "052-4813638",
+        "FAX": "",
+        "ADMINISTRA": "Mr. Gerald R. Gapayao",
+        "CONTACT": "0921-4984627",
+        "CHAIRMAN": "Rodolfo P. Ante,  M.D.",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.93827,
+          10.74594
+        ]
+      },
+      "properties": {
+        "NAME": "ANTIQUE",
+        "TYPE": "CHAPTER",
+        "CODE": "chapter07",
+        "ADDRESS": "T. A. Fornier Street (front of PNB), San Jose, Antique 5700",
+        "REGION": "VISAYAS REGION",
+        "WEBSITE": "antique@redcross.org.ph",
+        "TELEPHONE": "036-5407108",
+        "FAX": "",
+        "ADMINISTRA": "Mrs. Ester L. Buenaventura",
+        "CONTACT": "0917-8824-221",
+        "CHAIRMAN": "Judge Nery  Duremdes",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.59119,
+          16.4143
+        ]
+      },
+      "properties": {
+        "NAME": "BAGUIO CITY",
+        "TYPE": "CHAPTER",
+        "CODE": "chapter08",
+        "ADDRESS": "39 Harrison Road, Baguio City 2600",
+        "REGION": "NORTHERN & CENTRAL LUZON",
+        "WEBSITE": "baguio@redcross.org.ph",
+        "TELEPHONE": "074-4424036",
+        "FAX": "",
+        "ADMINISTRA": "Mrs. Anastacia B. Tamayo",
+        "CONTACT": "0920-9514164",
+        "CHAIRMAN": "Dir. Erdolfo V. Balajadia",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.54179,
+          14.67964
+        ]
+      },
+      "properties": {
+        "NAME": "BATAAN",
+        "TYPE": "CHAPTER",
+        "CODE": "chapter09",
+        "ADDRESS": "Capitol Compound, San Jose, Balanga City, Bataan 2100",
+        "REGION": "NORTHERN & CENTRAL LUZON",
+        "WEBSITE": "bataan@redcross.org.ph",
+        "TELEPHONE": "047-7912351",
+        "FAX": "",
+        "ADMINISTRA": "Ms. Junilene E. Viesca",
+        "CONTACT": "0999-9958634",
+        "CHAIRMAN": "Hon. Angelita J. Cruz",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0601,
+          13.75979
+        ]
+      },
+      "properties": {
+        "NAME": "BATANGAS",
+        "TYPE": "CHAPTER",
+        "CODE": "chapter10",
+        "ADDRESS": "Capitol Site, Kumintang Ibaba, Batangas City 4200",
+        "REGION": "SOUTHERN LUZON",
+        "WEBSITE": "batangas@redcross.org.ph",
+        "TELEPHONE": "043-7233027",
+        "FAX": "",
+        "ADMINISTRA": "Mr. Ronald G. Generoso",
+        "CONTACT": "0917-8824203",
+        "CHAIRMAN": "Atty.Vicente A. Mayo",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5888,
+          16.46315
+        ]
+      },
+      "properties": {
+        "NAME": "BENGUET",
+        "TYPE": "CHAPTER",
+        "CODE": "chapter11",
+        "ADDRESS": "BeGHCompound, KM 5  La Trinidad, Benguet",
+        "REGION": "NORTHERN & CENTRAL LUZON",
+        "WEBSITE": "benguet@redcross.org.ph",
+        "TELEPHONE": "074-4222796",
+        "FAX": "",
+        "ADMINISTRA": "Mr. Oscar  G. Paris",
+        "CONTACT": "0918-9592005",
+        "CHAIRMAN": "Dir. Jaime L. Narvaez",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.8551,
+          9.6424
+        ]
+      },
+      "properties": {
+        "NAME": "BOHOL",
+        "TYPE": "CHAPTER",
+        "CODE": "chapter12",
+        "ADDRESS": "Marapao St. cor J.A. Clarin Street, Provincial Capitol Compound, Tagbilaran City  6300",
+        "REGION": "VISAYAS REGION",
+        "WEBSITE": "bohol@redcross.org.ph",
+        "TELEPHONE": "038-5019175",
+        "FAX": "",
+        "ADMINISTRA": "Mrs. Nenita B. Briones",
+        "CONTACT": "0939-9151687",
+        "CHAIRMAN": "Provl. Gov. Edgar M. Chatto",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.91153,
+          11.89613
+        ]
+      },
+      "properties": {
+        "NAME": "BORACAY",
+        "TYPE": "CHAPTER",
+        "CODE": "chapter13",
+        "ADDRESS": "Main Road Sitio Ambulong, Barangay Manocmanoc, Malay, Aklan",
+        "REGION": "VISAYAS REGION",
+        "WEBSITE": "boracay@redcross.org.ph",
+        "TELEPHONE": "036-288-2068",
+        "FAX": "",
+        "ADMINISTRA": "Mr. Marlo D. Schoenenberger",
+        "CONTACT": "0939-9028069",
+        "CHAIRMAN": "Nieva B. Mendoza",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.13359,
+          8.16307
+        ]
+      },
+      "properties": {
+        "NAME": "BUKIDNON",
+        "TYPE": "CHAPTER",
+        "CODE": "chapter14",
+        "ADDRESS": "Capitol Site, Malaybalay City, Bukidnon 8700",
+        "REGION": "MINDANAO REGION",
+        "WEBSITE": "bukidnon@redcross.org.ph",
+        "TELEPHONE": "088-2213480",
+        "FAX": "",
+        "ADMINISTRA": "Ms. Jocelyn  A. Daroy",
+        "CONTACT": "0915-3393711",
+        "CHAIRMAN": "Hon. Leandro Jose H.Catarata",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.81409,
+          14.84778
+        ]
+      },
+      "properties": {
+        "NAME": "BULACAN",
+        "TYPE": "CHAPTER",
+        "CODE": "chapter15",
+        "ADDRESS": "Capitol Center, Guinhawa, City of Malolos, Bulacan 3000",
+        "REGION": "NORTHERN & CENTRAL LUZON",
+        "WEBSITE": "bulacan@redcross.org.ph",
+        "TELEPHONE": "044-6625922",
+        "FAX": "",
+        "ADMINISTRA": "Ms. Norwina D. Eclarinal",
+        "CONTACT": "0917-3695763",
+        "CHAIRMAN": "Dir. Rosalie V. Lava",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.72736,
+          17.61474
+        ]
+      },
+      "properties": {
+        "NAME": "CAGAYAN",
+        "TYPE": "CHAPTER",
+        "CODE": "chapter16",
+        "ADDRESS": "Magallanes  cor. Gomez Sts., Tuguegarao City 3500",
+        "REGION": "NORTHERN & CENTRAL LUZON",
+        "WEBSITE": "cagayan@redcross.org.ph",
+        "TELEPHONE": "078-8462881",
+        "FAX": "",
+        "ADMINISTRA": "Ms. Aileen A. Torres",
+        "CONTACT": "0917-8993049",
+        "CHAIRMAN": "Cong. Randolph S. Ting",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.97194,
+          14.65094
+        ]
+      },
+      "properties": {
+        "NAME": "CALOOCAN CITY",
+        "TYPE": "CHAPTER",
+        "CODE": "chapter17",
+        "ADDRESS": "7th Ave. Grace Park, Caloocan City 1400",
+        "REGION": "NATIONAL CAPITAL REGION",
+        "WEBSITE": "caloocan@redcross.org.ph",
+        "TELEPHONE": "364-5752",
+        "FAX": "366-0380",
+        "ADMINISTRA": "Mrs. Jennifer L. De Guzman",
+        "CONTACT": "0917-5809526",
+        "CHAIRMAN": "Dir. Russel C. Ramirez",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.9546,
+          14.10379
+        ]
+      },
+      "properties": {
+        "NAME": "CAMARINES NORTE",
+        "TYPE": "CHAPTER",
+        "CODE": "chapter18",
+        "ADDRESS": "Camarines  Norte Prov?l Hospital Compound, Bagasbas Road, Daet, Camarines Norte 4600",
+        "REGION": "BICOL REGION",
+        "WEBSITE": "camarines.norte@redcross.org.ph",
+        "TELEPHONE": "054-7215455",
+        "FAX": "",
+        "ADMINISTRA": "Mr. Ferdinand Salvador Q. Ferre",
+        "CONTACT": "0917-5504856",
+        "CHAIRMAN": "Dir. Josefina B. Tallado",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.188,
+          13.62446
+        ]
+      },
+      "properties": {
+        "NAME": "CAMARINES SUR",
+        "TYPE": "CHAPTER",
+        "CODE": "chapter19",
+        "ADDRESS": "Panganiban Drive, Naga City 4400",
+        "REGION": "BICOL REGION",
+        "WEBSITE": "camarines.sur@redcross.org.ph",
+        "TELEPHONE": "054-4739431",
+        "FAX": "",
+        "ADMINISTRA": "Mrs. Nanette E. Rodrigazo",
+        "CONTACT": "0918-9275768",
+        "CHAIRMAN": "Dir.Pedrito M. Servano",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.752,
+          11.58692
+        ]
+      },
+      "properties": {
+        "NAME": "CAPIZ",
+        "TYPE": "CHAPTER",
+        "CODE": "chapter20",
+        "ADDRESS": "Provincial Park, Macopa Street, Roxas City 2800",
+        "REGION": "VISAYAS REGION",
+        "WEBSITE": "capiz@redcross.org.ph",
+        "TELEPHONE": "036-6211125",
+        "FAX": "",
+        "ADMINISTRA": "Mrs. Nelia B. Cartujano",
+        "CONTACT": "0917-6270610",
+        "CHAIRMAN": "Charlie T. Robles, M.D.",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.23132,
+          13.58188
+        ]
+      },
+      "properties": {
+        "NAME": "CATANDUANES",
+        "TYPE": "CHAPTER",
+        "CODE": "chapter21",
+        "ADDRESS": "EBMC Compound, San Isidro Village, Virac,Catanduanes 4800",
+        "REGION": "BICOL REGION",
+        "WEBSITE": "catanduanes@redcross.org.ph",
+        "TELEPHONE": "",
+        "FAX": "",
+        "ADMINISTRA": "Mr. Reymund A. Reginaldo",
+        "CONTACT": "0917-8068528",
+        "CHAIRMAN": "Dir. Gabriel T. Tejerero",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.90734,
+          14.48061
+        ]
+      },
+      "properties": {
+        "NAME": "CAVITE",
+        "TYPE": "CHAPTER",
+        "CODE": "chapter22",
+        "ADDRESS": "Samonte Park, Cavite City 4100",
+        "REGION": "SOUTHERN LUZON",
+        "WEBSITE": "cavite@redcross.org.ph",
+        "TELEPHONE": "046-4310562",
+        "FAX": "",
+        "ADMINISTRA": "Mrs. Ma. Luz L.Asencio",
+        "CONTACT": "0906-2750312",
+        "CHAIRMAN": "Dir. Cresenciana R. Fancuvilla",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.89981,
+          10.2993
+        ]
+      },
+      "properties": {
+        "NAME": "CEBU",
+        "TYPE": "CHAPTER",
+        "CODE": "chapter23",
+        "ADDRESS": "Osmena Boulevard, Cebu City 6000",
+        "REGION": "VISAYAS REGION",
+        "WEBSITE": "cebu@redcross.org.ph",
+        "TELEPHONE": "032-4124140",
+        "FAX": "032-2539793",
+        "ADMINISTRA": "Mrs. Norma C. Tancinco",
+        "CONTACT": "0926-4770315",
+        "CHAIRMAN": "Dir. Allan Nicolas C. Ouano",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.96622,
+          7.60821
+        ]
+      },
+      "properties": {
+        "NAME": "COMPOSTELA VALLEY",
+        "TYPE": "CHAPTER",
+        "CODE": "chapter24",
+        "ADDRESS": "Nabunturan Central Elem. School  Compound., Nabunturan, Compostela Valley Province 8800",
+        "REGION": "MINDANAO REGION",
+        "WEBSITE": "compostela.valley@redcross.org.",
+        "TELEPHONE": "084-3760685",
+        "FAX": "",
+        "ADMINISTRA": "Mr. Joseph Randy M. Loy",
+        "CONTACT": "0920-9137885",
+        "CHAIRMAN": "Dir. Louie I. Zerrudo",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.24527,
+          7.21623
+        ]
+      },
+      "properties": {
+        "NAME": "COTABATO",
+        "TYPE": "CHAPTER",
+        "CODE": "chapter25",
+        "ADDRESS": "303 Veterans Ave. PC Hill, Cotabato City 9600",
+        "REGION": "MINDANAO REGION",
+        "WEBSITE": "cotabato@redcross.org.ph",
+        "TELEPHONE": "064-4216728",
+        "FAX": "",
+        "ADMINISTRA": "Mr. Ricardo D. Quintayo",
+        "CONTACT": "0922-8148196",
+        "CHAIRMAN": "Dir. Bai Fatima  P. Sinsuat",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.57732,
+          7.05628
+        ]
+      },
+      "properties": {
+        "NAME": "DAVAO CITY",
+        "TYPE": "CHAPTER",
+        "CODE": "chapter26",
+        "ADDRESS": "Manuel Roxas Avenue, Davao City 8000",
+        "REGION": "MINDANAO REGION",
+        "WEBSITE": "davaocity@redcross.org.ph",
+        "TELEPHONE": "082-2276650",
+        "FAX": "082-3211282",
+        "ADMINISTRA": "Mr. Rogelio U. Aca, Jr.",
+        "CONTACT": "0919-8435953",
+        "CHAIRMAN": "Dir. Eduardo G. Robillo",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.80854,
+          7.45133
+        ]
+      },
+      "properties": {
+        "NAME": "DAVAO DEL NORTE",
+        "TYPE": "CHAPTER",
+        "CODE": "chapter27",
+        "ADDRESS": "Government Center, Mankilam, Tagum City, Davao del Norte 8100",
+        "REGION": "MINDANAO REGION",
+        "WEBSITE": "davao@redcross.org.ph",
+        "TELEPHONE": "084-2166910",
+        "FAX": "",
+        "ADMINISTRA": "Mrs.Luzviminda C. Neri",
+        "CONTACT": "0922-8592860",
+        "CHAIRMAN": "Gov. Rodolfo P. del Rosario",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.3635,
+          6.76195
+        ]
+      },
+      "properties": {
+        "NAME": "DAVAO DEL SUR",
+        "TYPE": "CHAPTER",
+        "CODE": "chapter28",
+        "ADDRESS": "Quezon Avenue, Digos City, Davao del Sur 8002",
+        "REGION": "MINDANAO REGION",
+        "WEBSITE": "davao.sur@redcross.org.ph",
+        "TELEPHONE": "082-5532832",
+        "FAX": "",
+        "ADMINISTRA": "Mrs. Helen D. Caberto",
+        "CONTACT": "0928-5013106",
+        "CHAIRMAN": "Dir. Alan A. Kintanar",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.2154,
+          6.95693
+        ]
+      },
+      "properties": {
+        "NAME": "DAVAO ORIENTAL",
+        "TYPE": "CHAPTER",
+        "CODE": "chapter29",
+        "ADDRESS": "Hospital Drive, Matiao, Mati, Davao Oriental 8200",
+        "REGION": "MINDANAO REGION",
+        "WEBSITE": "davao.oriental@redcross.org.ph",
+        "TELEPHONE": "087-3884022",
+        "FAX": "",
+        "ADMINISTRA": "Mrs. Catherine KRM Y. Bijis",
+        "CONTACT": "0918-5656752",
+        "CHAIRMAN": "Dir.Cesar De Erio",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.43435,
+          11.61412
+        ]
+      },
+      "properties": {
+        "NAME": "EASTERN SAMAR",
+        "TYPE": "CHAPTER",
+        "CODE": "chapter30",
+        "ADDRESS": "Capitol Site, Alang-alang, Borongan City, Eastern Samar 6800",
+        "REGION": "VISAYAS REGION",
+        "WEBSITE": "easternsamar@redcross.org.ph",
+        "TELEPHONE": "055-5609040",
+        "FAX": "",
+        "ADMINISTRA": "Mrs. Josefa C. Tentativa",
+        "CONTACT": "0926-4770317",
+        "CHAIRMAN": "Dir. Jesse C. Solidon",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.17116,
+          6.11463
+        ]
+      },
+      "properties": {
+        "NAME": "GENERAL SANTOS CITY",
+        "TYPE": "CHAPTER",
+        "CODE": "chapter31",
+        "ADDRESS": "City Hall Compound, General Santos City 9500",
+        "REGION": "MINDANAO REGION",
+        "WEBSITE": "generalsantos@redcross.org.ph",
+        "TELEPHONE": "083-3017305",
+        "FAX": "083-5524323",
+        "ADMINISTRA": "Mrs. Merlita U. Gludo",
+        "CONTACT": "0918-9220170",
+        "CHAIRMAN": "Dir. Michael T. Ang",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.08386,
+          8.82099
+        ]
+      },
+      "properties": {
+        "NAME": "GINGOOG CITY",
+        "TYPE": "CHAPTER",
+        "CODE": "chapter32",
+        "ADDRESS": "Misamis Oriental Hospital Compound, Gingoog City 9014",
+        "REGION": "MINDANAO REGION",
+        "WEBSITE": "gingoog@redcross.org.ph",
+        "TELEPHONE": "088-427337",
+        "FAX": "",
+        "ADMINISTRA": "Mrs. Marilyn T. Abian",
+        "CONTACT": "0917-8824228",
+        "CHAIRMAN": "Dir. Marie L. Guingona",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.59304,
+          10.65771
+        ]
+      },
+      "properties": {
+        "NAME": "GUIMARAS",
+        "TYPE": "CHAPTER",
+        "CODE": "chapter33",
+        "ADDRESS": "Museo de Guimaras, San Miguel, Jordan,  Guimaras 5045,",
+        "REGION": "VISAYAS REGION",
+        "WEBSITE": "guimaras@redcross.org.ph",
+        "TELEPHONE": "033-5812020",
+        "FAX": "",
+        "ADMINISTRA": "Mrs. Maricel M. Linga",
+        "CONTACT": "0908-8947534",
+        "CHAIRMAN": "Dir. Ruben B. Corpuz",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.24959,
+          8.23796
+        ]
+      },
+      "properties": {
+        "NAME": "ILIGAN CITY",
+        "TYPE": "CHAPTER",
+        "CODE": "chapter34",
+        "ADDRESS": "Don Pedro Street, Celdren Avenue, Rosario Heights, Iligan City 9200",
+        "REGION": "MINDANAO REGION",
+        "WEBSITE": "iligan@redcross.org.ph",
+        "TELEPHONE": "063-2231065",
+        "FAX": "",
+        "ADMINISTRA": "Mrs. Genevieve C. Amodia",
+        "CONTACT": "0917-7164805",
+        "CHAIRMAN": "Hon. Henry C. Dy",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.59448,
+          18.19721
+        ]
+      },
+      "properties": {
+        "NAME": "ILOCOS NORTE - LAOAG CITY",
+        "TYPE": "CHAPTER",
+        "CODE": "chapter35",
+        "ADDRESS": "2nd floor PHO Building, P. Gomez Street, Brgy. 23 2900 Laoag City, Ilocos Norte",
+        "REGION": "NORTHERN & CENTRAL LUZON",
+        "WEBSITE": "ilocos.norte@redcross.org.ph",
+        "TELEPHONE": "077-7705615",
+        "FAX": "077-7720217",
+        "ADMINISTRA": "Mrs. Edna L. Orcino",
+        "CONTACT": "0917-5701319",
+        "CHAIRMAN": "Dir. Maria C. Ang",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.38547,
+          17.57564
+        ]
+      },
+      "properties": {
+        "NAME": "ILOCOS SUR",
+        "TYPE": "CHAPTER",
+        "CODE": "chapter36",
+        "ADDRESS": "Burgos Street , Provincial Capitol Compound, Vigan City 2700",
+        "REGION": "NORTHERN & CENTRAL LUZON",
+        "WEBSITE": "ilocos.sur@redcross.org.ph",
+        "TELEPHONE": "077-7222684",
+        "FAX": "",
+        "ADMINISTRA": "Mr. Raymund Mario T. Chan",
+        "CONTACT": "0915-7657444",
+        "CHAIRMAN": "Dir. Azucena A. Purisima",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.56616,
+          10.69908
+        ]
+      },
+      "properties": {
+        "NAME": "ILOILO",
+        "TYPE": "CHAPTER",
+        "CODE": "chapter37",
+        "ADDRESS": "Bonifacio Drive (beside Iloilo Hall of Justice), Iloilo City 5000",
+        "REGION": "VISAYAS REGION",
+        "WEBSITE": "iloilo@redcross.org.ph",
+        "TELEPHONE": "033-3375950",
+        "FAX": "",
+        "ADMINISTRA": "Mr. Gilbert Paul L. Valderrama",
+        "CONTACT": "0917-6399899",
+        "CHAIRMAN": "Dir. Ramon C. Locsin",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.88791,
+          17.15098
+        ]
+      },
+      "properties": {
+        "NAME": "ISABELA",
+        "TYPE": "CHAPTER",
+        "CODE": "chapter38",
+        "ADDRESS": "Calamangui 2nd Ilagan, Isabela  3300",
+        "REGION": "NORTHERN & CENTRAL LUZON",
+        "WEBSITE": "isabela@redcross.org.ph",
+        "TELEPHONE": "078-6223248",
+        "FAX": "",
+        "ADMINISTRA": "Mrs. Antonita M. Asis",
+        "CONTACT": "0928-5200622",
+        "CHAIRMAN": "Dir. Corazon T. Barrientos",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.44478,
+          17.40971
+        ]
+      },
+      "properties": {
+        "NAME": "KALINGA",
+        "TYPE": "CHAPTER",
+        "CODE": "chapter39",
+        "ADDRESS": "Capitol Hills, Bulanao, Tabuk City, Kalinga",
+        "REGION": "NORTHERN & CENTRAL LUZON",
+        "WEBSITE": "kalinga@redcross.org.ph",
+        "TELEPHONE": "",
+        "FAX": "",
+        "ADMINISTRA": "Ms. Glorina B. Diaz",
+        "CONTACT": "0917-5699910",
+        "CHAIRMAN": "Dir. Macario Duguiang",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.31807,
+          16.61364
+        ]
+      },
+      "properties": {
+        "NAME": "LA UNION - SAN FERNANDO CITY",
+        "TYPE": "CHAPTER",
+        "CODE": "chapter40",
+        "ADDRESS": "Don Pablo Campos Building, Widdoes Street, Barangay 2, City of San Fernando, 2500 La Union",
+        "REGION": "NORTHERN & CENTRAL LUZON",
+        "WEBSITE": "launion@redcross.org.ph",
+        "TELEPHONE": "072-6073143",
+        "FAX": "",
+        "ADMINISTRA": "Mrs. Almira V. Abrazado",
+        "CONTACT": "0918-9355698",
+        "CHAIRMAN": "Dir. Jonathan Justo A. Orros",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.41631,
+          14.28039
+        ]
+      },
+      "properties": {
+        "NAME": "LAGUNA",
+        "TYPE": "CHAPTER",
+        "CODE": "chapter41",
+        "ADDRESS": "J. De Leon Street, Corner P. Guevarra Ave., Sta Cruz, Laguna 4009",
+        "REGION": "SOUTHERN LUZON",
+        "WEBSITE": "laguna@redcross.org.ph",
+        "TELEPHONE": "049-5011114",
+        "FAX": "",
+        "ADMINISTRA": "Mrs. Rudelly C. Cabutin",
+        "CONTACT": "0917-5046694",
+        "CHAIRMAN": "Dir. Jaime Bautista Ching",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.94723,
+          10.31375
+        ]
+      },
+      "properties": {
+        "NAME": "LAPU-LAPU \/ CORDOVA",
+        "TYPE": "CHAPTER",
+        "CODE": "chapter42",
+        "ADDRESS": "R. de la Serna St., Poblacion, Lapu-Lapu City 6015",
+        "REGION": "VISAYAS REGION",
+        "WEBSITE": "lapulapu@redcross.org.ph",
+        "TELEPHONE": "032-4954770",
+        "FAX": "032-2689983",
+        "ADMINISTRA": "Mr. Vic Jay  C. Gonzal",
+        "CONTACT": "0917-8535390",
+        "CHAIRMAN": "Dir. Samuel B. Lim",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.00698,
+          11.24663
+        ]
+      },
+      "properties": {
+        "NAME": "LEYTE",
+        "TYPE": "CHAPTER",
+        "CODE": "chapter43",
+        "ADDRESS": "Magsaysay Blvd. Cor. M.H. del Pilar Blvd. Tacloban City 6500",
+        "REGION": "VISAYAS REGION",
+        "WEBSITE": "leyte@redcross.org.ph",
+        "TELEPHONE": "053-8320097",
+        "FAX": "053-3213330",
+        "ADMINISTRA": "Ms. Jennifer S. Chico",
+        "CONTACT": "0927-6942746",
+        "CHAIRMAN": "Dir.  Miguel T. Tezon",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.95092,
+          14.65768
+        ]
+      },
+      "properties": {
+        "NAME": "MALABON CITY",
+        "TYPE": "CHAPTER",
+        "CODE": "chapter44",
+        "ADDRESS": "Gov. Pascual, Brgy. Potrero, Malabon City",
+        "REGION": "NATIONAL CAPITAL REGION",
+        "WEBSITE": "malabon@redcross.org.ph",
+        "TELEPHONE": "404-4956",
+        "FAX": "",
+        "ADMINISTRA": "Maria Joana A. Rosete",
+        "CONTACT": "0916-4038947",
+        "CHAIRMAN": "Dir. Payapa V. Ona",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9818,
+          14.58807
+        ]
+      },
+      "properties": {
+        "NAME": "MANILA",
+        "TYPE": "CHAPTER",
+        "CODE": "chapter45",
+        "ADDRESS": "Gen. Luna corner Victoria Streets, Intramuros, Manila 1002",
+        "REGION": "NATIONAL CAPITAL REGION",
+        "WEBSITE": "manila@redcross.org.ph",
+        "TELEPHONE": "527-3595",
+        "FAX": "",
+        "ADMINISTRA": "Mrs.Crisanta C.Cayetano",
+        "CONTACT": "0917-5227044",
+        "CHAIRMAN": "Cong. Amado S. Bagatsing",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.83591,
+          13.4488
+        ]
+      },
+      "properties": {
+        "NAME": "MARINDUQUE",
+        "TYPE": "CHAPTER",
+        "CODE": "chapter46",
+        "ADDRESS": "Kasilag Street, ISOK, Boac, Marinduque  4900",
+        "REGION": "SOUTHERN LUZON",
+        "WEBSITE": "marinduque@redcross.org.ph",
+        "TELEPHONE": "042-3111576",
+        "FAX": "",
+        "ADMINISTRA": "Mr. Jommel M. Merano",
+        "CONTACT": "0926-7160202",
+        "CHAIRMAN": "Dir. Romulo H. Malvar",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.62673,
+          12.36528
+        ]
+      },
+      "properties": {
+        "NAME": "MASBATE",
+        "TYPE": "CHAPTER",
+        "CODE": "chapter47",
+        "ADDRESS": "Social Center Site, Capitol Road, Masbate City 5400",
+        "REGION": "BICOL REGION",
+        "WEBSITE": "masbate@redcross.org.ph",
+        "TELEPHONE": "056-3332331",
+        "FAX": "",
+        "ADMINISTRA": "Mrs. Amparo D. Perez",
+        "CONTACT": "0917-8068527",
+        "CHAIRMAN": "Dir. Ruby Sanchez-Morano",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.18087,
+          13.41598
+        ]
+      },
+      "properties": {
+        "NAME": "MINDORO ORIENTAL",
+        "TYPE": "CHAPTER",
+        "CODE": "chapter48",
+        "ADDRESS": "Capitol  Site, Camilmil, Calapan  City 5200",
+        "REGION": "SOUTHERN LUZON",
+        "WEBSITE": "mindoro.oriental@redcross.org.ph",
+        "TELEPHONE": "043-2867173",
+        "FAX": "",
+        "ADMINISTRA": "Ms. Guada Fe S. de Leon",
+        "CONTACT": "0920-9834807",
+        "CHAIRMAN": "Atty. LuningningY. Centron",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.8038,
+          8.48796
+        ]
+      },
+      "properties": {
+        "NAME": "MISAMIS OCCIDENTAL - OROQUIETA CITY",
+        "TYPE": "CHAPTER",
+        "CODE": "chapter49",
+        "ADDRESS": "Capitol Compound, Oroquieta City 7207",
+        "REGION": "MINDANAO REGION",
+        "WEBSITE": "misamis.occidental@redcross.org.ph",
+        "TELEPHONE": "088-5311068",
+        "FAX": "",
+        "ADMINISTRA": "Ms. Louwelie L. Macatol",
+        "CONTACT": "0917-7218024",
+        "CHAIRMAN": "Dir. Henry Y. Regalado",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.65347,
+          8.49711
+        ]
+      },
+      "properties": {
+        "NAME": "MISAMIS ORIENTAL - CAGAYAN DE ORO CITY",
+        "TYPE": "CHAPTER",
+        "CODE": "chapter50",
+        "ADDRESS": "Capitol Compound, Cagayan de Oro City 9000",
+        "REGION": "MINDANAO REGION",
+        "WEBSITE": "misamis.oriental@redcross.org.ph",
+        "TELEPHONE": "088-8566647",
+        "FAX": "088-8568855",
+        "ADMINISTRA": "Dr. Myra G. Yee",
+        "CONTACT": "0918-9275003",
+        "CHAIRMAN": "Atty. Antonio S. Soriano",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.94853,
+          10.6699
+        ]
+      },
+      "properties": {
+        "NAME": "NEGROS OCCIDENTAL - BACOLOD CITY",
+        "TYPE": "CHAPTER",
+        "CODE": "chapter51",
+        "ADDRESS": "10th Street Lacson Capitol Subd., Capitol Shopping Center, Bacolod City 6100",
+        "REGION": "VISAYAS REGION",
+        "WEBSITE": "negros.occidental@redcross.org.ph",
+        "TELEPHONE": "034-4348541",
+        "FAX": "034-4349286",
+        "ADMINISTRA": "Mr. Raul S. Garganera",
+        "CONTACT": "0917-3250007",
+        "CHAIRMAN": "Judge Demosthenes L. Magallanes",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.3051,
+          9.30662
+        ]
+      },
+      "properties": {
+        "NAME": "NEGROS ORIENTAL",
+        "TYPE": "CHAPTER",
+        "CODE": "chapter52",
+        "ADDRESS": "Legaspi Street, Dumaguete City 6200",
+        "REGION": "VISAYAS REGION",
+        "WEBSITE": "negros.oriental@redcross.org.ph",
+        "TELEPHONE": "035-4224553",
+        "FAX": "",
+        "ADMINISTRA": "Mrs. Louella N. Bael",
+        "CONTACT": "0917-8824214",
+        "CHAIRMAN": "Dr. Henry A. Sojor",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.63779,
+          12.50591
+        ]
+      },
+      "properties": {
+        "NAME": "NORTHERN SAMAR",
+        "TYPE": "CHAPTER",
+        "CODE": "chapter53",
+        "ADDRESS": "Capitol Site, Catarman, Northern Samar 6400",
+        "REGION": "VISAYAS REGION",
+        "WEBSITE": "northernsamar@redcross.org.ph",
+        "TELEPHONE": "055-2518279",
+        "FAX": "",
+        "ADMINISTRA": "Ms. Susana T. Hernandez",
+        "CONTACT": "0916-7980949",
+        "CHAIRMAN": "Dr. Pedro D. Destura",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.96535,
+          15.48689
+        ]
+      },
+      "properties": {
+        "NAME": "NUEVA ECIJA",
+        "TYPE": "CHAPTER",
+        "CODE": "chapter54",
+        "ADDRESS": "Llanera Street, Old Capitol Compound, Cabanatuan City  3100",
+        "REGION": "NORTHERN & CENTRAL LUZON",
+        "WEBSITE": "nueva.ecija@redcross.org.ph",
+        "TELEPHONE": "044-4631280",
+        "FAX": "",
+        "ADMINISTRA": "Mrs. Elena M. Ladignon",
+        "CONTACT": "0918-9203289",
+        "CHAIRMAN": "Dir. Tomas N. Joson, III",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.15787,
+          16.48605
+        ]
+      },
+      "properties": {
+        "NAME": "NUEVA VIZCAYA",
+        "TYPE": "CHAPTER",
+        "CODE": "chapter55",
+        "ADDRESS": "Capitol Compound. Bayombong, Nueva Vizcaya  3700",
+        "REGION": "NORTHERN & CENTRAL LUZON",
+        "WEBSITE": "nueva.vizcaya@redcross.org.ph",
+        "TELEPHONE": "078-3212189",
+        "FAX": "",
+        "ADMINISTRA": "Ms. Margarita E. Dumlao",
+        "CONTACT": "0917-5079950",
+        "CHAIRMAN": "Dir. Santiago O. Dickson",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.28553,
+          14.83956
+        ]
+      },
+      "properties": {
+        "NAME": "OLONGAPO CITY",
+        "TYPE": "CHAPTER",
+        "CODE": "chapter56",
+        "ADDRESS": "Old Hospital Compound, East Tapinac, Olongapo City 2200",
+        "REGION": "NORTHERN & CENTRAL LUZON",
+        "WEBSITE": "olongapo@redcross.org.ph",
+        "TELEPHONE": "047-222-2181",
+        "FAX": "",
+        "ADMINISTRA": "Mr.Eduardo C. Buena, Jr.",
+        "CONTACT": "0916-7981084",
+        "CHAIRMAN": "City Mayor James J. Gordon, Jr.",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.61142,
+          11.00982
+        ]
+      },
+      "properties": {
+        "NAME": "ORMOC CITY",
+        "TYPE": "CHAPTER",
+        "CODE": "chapter57",
+        "ADDRESS": "San Pablo Street, Ormoc City 6541",
+        "REGION": "VISAYAS REGION",
+        "WEBSITE": "ormoc.@redcross.org.ph",
+        "TELEPHONE": "053-2552911",
+        "FAX": "",
+        "ADMINISTRA": "Mrs. Ruby L. Gernale",
+        "CONTACT": "0915-5457796",
+        "CHAIRMAN": "Dir. Climaco V. Evangelista",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.83825,
+          8.14753
+        ]
+      },
+      "properties": {
+        "NAME": "OZAMIZ CITY",
+        "TYPE": "CHAPTER",
+        "CODE": "chapter58",
+        "ADDRESS": "S.M. Lao Hospital Compound, Manabay, Ozamiz City 7200",
+        "REGION": "MINDANAO REGION",
+        "WEBSITE": "ozamis@redcross.org.ph",
+        "TELEPHONE": "088-5213837",
+        "FAX": "",
+        "ADMINISTRA": "Mrs. Jean Paz D. Eribal",
+        "CONTACT": "0918-9448147",
+        "CHAIRMAN": "Hon. Rolando E. Romero",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.74493,
+          9.74117
+        ]
+      },
+      "properties": {
+        "NAME": "PALAWAN",
+        "TYPE": "CHAPTER",
+        "CODE": "chapter59",
+        "ADDRESS": "H. Mendoza Street, Old City Hall Site, Puerto Princesa City 5300",
+        "REGION": "SOUTHERN LUZON",
+        "WEBSITE": "palawan@redcross.org.ph",
+        "TELEPHONE": "048-4336362",
+        "FAX": "",
+        "ADMINISTRA": "Miss. Arsenia P. Tabique",
+        "CONTACT": "0905-3336512",
+        "CHAIRMAN": "Atty. Ofelia A. Sta. Maria",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.69158,
+          15.02748
+        ]
+      },
+      "properties": {
+        "NAME": "PAMPANGA - ANGELES CITY",
+        "TYPE": "CHAPTER",
+        "CODE": "chapter60",
+        "ADDRESS": "Prov?l Capitol Compound , Sto.Nio, City of San Fernando Pampanga 2000",
+        "REGION": "NORTHERN & CENTRAL LUZON",
+        "WEBSITE": "pampanga@redcross.org.ph",
+        "TELEPHONE": "045-9614117",
+        "FAX": "",
+        "ADMINISTRA": "Mr. Augusto B. Ocampo",
+        "CONTACT": "0918- 9206054",
+        "CHAIRMAN": "Dir. Alfredo P. De Leon",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.33941,
+          16.0451
+        ]
+      },
+      "properties": {
+        "NAME": "PANGASINAN - DAGUPAN CITY - SAN CARLOS CITY",
+        "TYPE": "CHAPTER",
+        "CODE": "chapter61",
+        "ADDRESS": "Herrero-Perez Blvd. Dagupan City 2400",
+        "REGION": "NORTHERN & CENTRAL LUZON",
+        "WEBSITE": "pangasinan@redcross.org.ph",
+        "TELEPHONE": "075-5154577",
+        "FAX": "",
+        "ADMINISTRA": "Mrs. Florame S. Magalong",
+        "CONTACT": "0908-8601396",
+        "CHAIRMAN": "Dir. Vivencio V. Villaflor, Jr. M.",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.99479,
+          14.54434
+        ]
+      },
+      "properties": {
+        "NAME": "PASAY CITY",
+        "TYPE": "CHAPTER",
+        "CODE": "chapter62",
+        "ADDRESS": "2354 CAA Compound, Aurora Blvd. (old Tramo), Pasay City 1300",
+        "REGION": "NATIONAL CAPITAL REGION",
+        "WEBSITE": "pasay@redcross.org.ph",
+        "TELEPHONE": "854-2748",
+        "FAX": "",
+        "ADMINISTRA": "Mrs. Adelina B. Castillo",
+        "CONTACT": "0917-8151179",
+        "CHAIRMAN": "Dir. Enrique Lagdameo",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.04996,
+          14.64811
+        ]
+      },
+      "properties": {
+        "NAME": "QUEZON CITY",
+        "TYPE": "CHAPTER",
+        "CODE": "chapter63",
+        "ADDRESS": "Gate 5 Quezon City Hall Compound, Kalayaan Avenue, Diliman, Quezon City 1100",
+        "REGION": "NATIONAL CAPITAL REGION",
+        "WEBSITE": "quezoncity@redcross.org.ph",
+        "TELEPHONE": "433-2151",
+        "FAX": "",
+        "ADMINISTRA": "Mrs. Annie D. Torres",
+        "CONTACT": "0922-8575372",
+        "CHAIRMAN": "Dir. Hermogenes D. Jarin",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.61805,
+          13.93427
+        ]
+      },
+      "properties": {
+        "NAME": "QUEZON-LUCENA CITY",
+        "TYPE": "CHAPTER",
+        "CODE": "chapter64",
+        "ADDRESS": "Victoria Street, Capitol Compound, Lucena City 4301",
+        "REGION": "SOUTHERN LUZON",
+        "WEBSITE": "quezonlucena@redcross.org.ph",
+        "TELEPHONE": "042-7102431",
+        "FAX": "",
+        "ADMINISTRA": "Mr. Jaime D. Candelaria",
+        "CONTACT": "0918-9190461",
+        "CHAIRMAN": "Dr. Gerardo B. De Villa",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.52216,
+          16.53087
+        ]
+      },
+      "properties": {
+        "NAME": "QUIRINO",
+        "TYPE": "CHAPTER",
+        "CODE": "chapter65",
+        "ADDRESS": "Capitol Hills, Cabarroguis, Quirino3400",
+        "REGION": "NORTHERN & CENTRAL LUZON",
+        "WEBSITE": "quirino@redcross.org.ph",
+        "TELEPHONE": "",
+        "FAX": "",
+        "ADMINISTRA": "Mrs. Jesusa N. Leal",
+        "CONTACT": "0917-5745001",
+        "CHAIRMAN": "Gov. Junie E. Cua",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.06308,
+          14.57554
+        ]
+      },
+      "properties": {
+        "NAME": "RIZAL",
+        "TYPE": "CHAPTER",
+        "CODE": "chapter66",
+        "ADDRESS": "Shaw Boulevard, Brgy. Kapitolyo, Pasig City 1601",
+        "REGION": "NATIONAL CAPITAL REGION",
+        "WEBSITE": "rizal@redcross.org.ph",
+        "TELEPHONE": "635 -0922",
+        "FAX": "",
+        "ADMINISTRA": "Ms. Karen S. Loreno",
+        "CONTACT": "0917-5139074",
+        "CHAIRMAN": "Dir. Alfred A. Xerez-Burgos, Jr.",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.27033,
+          12.57651
+        ]
+      },
+      "properties": {
+        "NAME": "ROMBLON",
+        "TYPE": "CHAPTER",
+        "CODE": "chapter67",
+        "ADDRESS": "Capitol Site, Brgy. Capaclan, Romblon, Romblon 5500",
+        "REGION": "SOUTHERN LUZON",
+        "WEBSITE": "romblon@redcross.org.ph",
+        "TELEPHONE": "054-4728218",
+        "FAX": "",
+        "ADMINISTRA": "Ms. Mary Ann D. Magada",
+        "CONTACT": "0907-7974304",
+        "CHAIRMAN": "Dir. Alicia C. Fetalvero",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.32494,
+          14.07062
+        ]
+      },
+      "properties": {
+        "NAME": "SAN PABLO CITY",
+        "TYPE": "CHAPTER",
+        "CODE": "chapter68",
+        "ADDRESS": "1 Rizal Avenue, San Pablo City, Laguna 4000",
+        "REGION": "SOUTHERN LUZON",
+        "WEBSITE": "sanpablo@redcross.org.ph",
+        "TELEPHONE": "049-5624025",
+        "FAX": "",
+        "ADMINISTRA": "Mrs. Dorie P. Cabela",
+        "CONTACT": "0917-5456581",
+        "CHAIRMAN": "Dr. Emmanuel D. Loyola, M.D.",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.00491,
+          12.97121
+        ]
+      },
+      "properties": {
+        "NAME": "SORSOGON",
+        "TYPE": "CHAPTER",
+        "CODE": "chapter69",
+        "ADDRESS": "Capitol Compound, Sorsogon City 4700",
+        "REGION": "BICOL REGION",
+        "WEBSITE": "sorsogon@redcross.org.ph",
+        "TELEPHONE": "056-2111300",
+        "FAX": "",
+        "ADMINISTRA": "Mrs. Salvacion L. Abotanatin",
+        "CONTACT": "0917-3095596",
+        "CHAIRMAN": "Atty. Arnulfo L.Perete",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.84228,
+          6.50838
+        ]
+      },
+      "properties": {
+        "NAME": "SOUTH COTABATO",
+        "TYPE": "CHAPTER",
+        "CODE": "chapter70",
+        "ADDRESS": "Mabini Street, Koronadal City, South Cotabato 9506",
+        "REGION": "MINDANAO REGION",
+        "WEBSITE": "southcotabato@redcross.org",
+        "TELEPHONE": "083-2287798",
+        "FAX": "",
+        "ADMINISTRA": "Mr. Dixie O. Villar",
+        "CONTACT": "0917-750-6227",
+        "CHAIRMAN": "Dir. Justiniano S. Grio, Sr.",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.82948,
+          10.13586
+        ]
+      },
+      "properties": {
+        "NAME": "SOUTHERN LEYTE",
+        "TYPE": "CHAPTER",
+        "CODE": "chapter71",
+        "ADDRESS": "Tomas Oppus Street, Brgy. Abgao, Maasin City, Southern Leyte 6600",
+        "REGION": "VISAYAS REGION",
+        "WEBSITE": "southernleyte@redcross.org.ph",
+        "TELEPHONE": "053-3810563",
+        "FAX": "053-3814234",
+        "ADMINISTRA": "Mr. Noli  G. Casas",
+        "CONTACT": "0917-9240446",
+        "CHAIRMAN": "Gov. Damian G. Mercado",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.6801,
+          6.68528
+        ]
+      },
+      "properties": {
+        "NAME": "SULTAN KUDARAT PROVINCE - TACURONG CITY",
+        "TYPE": "CHAPTER",
+        "CODE": "chapter72",
+        "ADDRESS": "Corner Bonifacio Street and Roxas Avenue, Tacurong City",
+        "REGION": "MINDANAO REGION",
+        "WEBSITE": "sultankudarat@redcross.org.ph",
+        "TELEPHONE": "064- 2006652",
+        "FAX": "",
+        "ADMINISTRA": "Mrs. Mary Lou G. Torres",
+        "CONTACT": "0928-5560808",
+        "CHAIRMAN": "Dir. Bonifacio Valdez",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.99591,
+          6.05139
+        ]
+      },
+      "properties": {
+        "NAME": "SULU",
+        "TYPE": "CHAPTER",
+        "CODE": "chapter73",
+        "ADDRESS": "Marina Street, Municipal Compound, Jolo, Sulu 7400",
+        "REGION": "MINDANAO REGION",
+        "WEBSITE": "sulu@redcross.org.ph",
+        "TELEPHONE": "085-3418911",
+        "FAX": "",
+        "ADMINISTRA": "Mrs. Preciosa S. Chiong",
+        "CONTACT": "0917-5450745",
+        "CHAIRMAN": "Hon. Nur \"Lady Ann\" I. Sahidulla",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.49578,
+          9.78816
+        ]
+      },
+      "properties": {
+        "NAME": "SURIGAO DEL NORTE",
+        "TYPE": "CHAPTER",
+        "CODE": "chapter74",
+        "ADDRESS": "Parrucho Street Cor. Magallanes Street, Surigao City 8400",
+        "REGION": "MINDANAO REGION",
+        "WEBSITE": "surigao.norte@redcross.org.ph",
+        "TELEPHONE": "086-8261347",
+        "FAX": "",
+        "ADMINISTRA": "Mrs. Marilou E. Talingting",
+        "CONTACT": "0920-9515873",
+        "CHAIRMAN": "Dir. Eulalio P. Cortes",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.1975,
+          9.07705
+        ]
+      },
+      "properties": {
+        "NAME": "SURIGAO DEL SUR",
+        "TYPE": "CHAPTER",
+        "CODE": "chapter75",
+        "ADDRESS": "Capitol Hills, Tandag, Surigao del Sur 8300",
+        "REGION": "MINDANAO REGION",
+        "WEBSITE": "surigao.sur@redcross.org.ph",
+        "TELEPHONE": "086-2113191",
+        "FAX": "",
+        "ADMINISTRA": "Felomina Rivamonte",
+        "CONTACT": "",
+        "CHAIRMAN": "Dir. Annie O. Ty",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.74805,
+          8.06211
+        ]
+      },
+      "properties": {
+        "NAME": "TANGUB CITY",
+        "TYPE": "CHAPTER",
+        "CODE": "chapter76",
+        "ADDRESS": "City Hall Compound, Tangub City 7214, Misamis Occidental",
+        "REGION": "MINDANAO REGION",
+        "WEBSITE": "tangub@redcross.org.ph",
+        "TELEPHONE": "088-3953162",
+        "FAX": "",
+        "ADMINISTRA": "Mrs. Enriquita G. Astillero",
+        "CONTACT": "0917-8825739",
+        "CHAIRMAN": "Hon.  Edemar  S. Alota",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.59341,
+          15.4873
+        ]
+      },
+      "properties": {
+        "NAME": "TARLAC",
+        "TYPE": "CHAPTER",
+        "CODE": "chapter77",
+        "ADDRESS": "Capitol Site, San Vicente, Tarlac City 2300",
+        "REGION": "NORTHERN & CENTRAL LUZON",
+        "WEBSITE": "tarlac@redcross.org.ph",
+        "TELEPHONE": "045-9820318",
+        "FAX": "",
+        "ADMINISTRA": "Mr. Luciano L. Paras, Jr.",
+        "CONTACT": "0917-5140105",
+        "CHAIRMAN": "Dir. Jesus Cano Chua",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9677,
+          14.69299
+        ]
+      },
+      "properties": {
+        "NAME": "VALENZUELA CITY",
+        "TYPE": "CHAPTER",
+        "CODE": "chapter78",
+        "ADDRESS": "Dahlia Street, Villa Teresa Subdivision, Marulas, Valenzuela City",
+        "REGION": "NATIONAL CAPITAL REGION",
+        "WEBSITE": "valenzuela@redcross.org.ph",
+        "TELEPHONE": "293-8375",
+        "FAX": "",
+        "ADMINISTRA": "Mrs. Criselda  I. Torres",
+        "CONTACT": "0922-8483819",
+        "CHAIRMAN": "Dir. Elizabeth A. Chongco",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.88333,
+          11.77599
+        ]
+      },
+      "properties": {
+        "NAME": "WESTERN SAMAR",
+        "TYPE": "CHAPTER",
+        "CODE": "chapter79",
+        "ADDRESS": "Arteche Boulevard, Catbalogan City, Western Samar  6700",
+        "REGION": "VISAYAS REGION",
+        "WEBSITE": "westernsamar@redcross.org.ph",
+        "TELEPHONE": "055-2516811",
+        "FAX": "",
+        "ADMINISTRA": "Mr. Priam C. Arteche",
+        "CONTACT": "0917-6261012",
+        "CHAIRMAN": "Dir Edgardo M. Guya",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.97709,
+          15.32778
+        ]
+      },
+      "properties": {
+        "NAME": "ZAMBALES",
+        "TYPE": "CHAPTER",
+        "CODE": "chapter80",
+        "ADDRESS": "Brgy. Palanginan, Iba, Zambales 2201",
+        "REGION": "NORTHERN & CENTRAL LUZON",
+        "WEBSITE": "zambales@redcross.org.ph",
+        "TELEPHONE": "047-8113648",
+        "FAX": "",
+        "ADMINISTRA": "Ms. Maria Elizabeth J. Ednave",
+        "CONTACT": "0917-5774092",
+        "CHAIRMAN": "Norma M. Abad",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.06802,
+          6.94876
+        ]
+      },
+      "properties": {
+        "NAME": "ZAMBOANGA CITY",
+        "TYPE": "CHAPTER",
+        "CODE": "chapter81",
+        "ADDRESS": "Rizal Street, Pettit Barracks, Zamboanga City 7000",
+        "REGION": "MINDANAO REGION",
+        "WEBSITE": "zamboangacity@redcross.org.ph",
+        "TELEPHONE": "062-9921622",
+        "FAX": "",
+        "ADMINISTRA": "Dr.Victor A. Liozo, Jr.",
+        "CONTACT": "0918-9398950",
+        "CHAIRMAN": "Milagros L. Fernandez, M.D.",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.3432,
+          8.59058
+        ]
+      },
+      "properties": {
+        "NAME": "ZAMBOANGA DEL NORTE",
+        "TYPE": "CHAPTER",
+        "CODE": "chapter82",
+        "ADDRESS": "Capitol Tourism Complex, Dipolog City 7100",
+        "REGION": "MINDANAO REGION",
+        "WEBSITE": "zamboanga.norte@redcross.org.ph",
+        "TELEPHONE": "065-2129374",
+        "FAX": "",
+        "ADMINISTRA": "Mr.  Joshua A. Bicoy",
+        "CONTACT": "0999-9912883",
+        "CHAIRMAN": "Dir. Socorro U. Hamac",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.43859,
+          7.82073
+        ]
+      },
+      "properties": {
+        "NAME": "ZAMBOANGA DEL SUR - PAGADIAN CITY",
+        "TYPE": "CHAPTER",
+        "CODE": "chapter83",
+        "ADDRESS": "Provincial Government Center, Barangay Dau, Pagadian City",
+        "REGION": "MINDANAO REGION",
+        "WEBSITE": "zamboanga.sur@redcross.org.ph",
+        "TELEPHONE": "062-2141717",
+        "FAX": "",
+        "ADMINISTRA": "Ms. Hildaliza F. Muoz",
+        "CONTACT": "0920-9019961",
+        "CHAIRMAN": "Dir.Reynaldo S. Ortiz, M.D.",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.34788,
+          18.32165
+        ]
+      },
+      "properties": {
+        "NAME": "APAYAO",
+        "TYPE": "SUB-CHAPTER",
+        "CODE": "sub01",
+        "ADDRESS": "Stall # 6 BGV Jr., Municipal Gym, Poblacion, Luna, Apayao",
+        "REGION": "NORTHERN & CENTRAL LUZON",
+        "WEBSITE": "apayao@redcross.org.ph",
+        "TELEPHONE": "",
+        "FAX": "",
+        "ADMINISTRA": "Mrs. Laureen D. Cabrera",
+        "CONTACT": "0918-9575281",
+        "CHAIRMAN": "Hon. Elias K. Bulut, Sr.",
+        "REMARKS": "mother chapter-Kalinga"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5605,
+          15.75641
+        ]
+      },
+      "properties": {
+        "NAME": "AURORA",
+        "TYPE": "SUB-CHAPTER",
+        "CODE": "sub02",
+        "ADDRESS": "Palayan Street, Brgy Buhangin, Baler, Aurora 3200",
+        "REGION": "NORTHERN & CENTRAL LUZON",
+        "WEBSITE": "aurora@redcross.org.ph",
+        "TELEPHONE": "",
+        "FAX": "",
+        "ADMINISTRA": "Mr. Sherwin  A. Nakar",
+        "CONTACT": "0999-8156168",
+        "CHAIRMAN": "Gov. Bellaflor Angara-Castillo",
+        "REMARKS": "mother chapter-Nueva Ecija"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.97741,
+          6.70764
+        ]
+      },
+      "properties": {
+        "NAME": "BASILAN",
+        "TYPE": "SUB-CHAPTER",
+        "CODE": "sub03",
+        "ADDRESS": "Strong Blvd., Port Area, Isabela City, Basilan 7300",
+        "REGION": "MINDANAO REGION",
+        "WEBSITE": "basilan@redcross.org.ph",
+        "TELEPHONE": "062-2003345",
+        "FAX": "",
+        "ADMINISTRA": "Mr.Jonathan L.Cabayao",
+        "CONTACT": "0917-8825733",
+        "CHAIRMAN": "Dir. Bernardita F. Hontucan",
+        "REMARKS": "mother chapter-Zamboanga City"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.7155,
+          9.25536
+        ]
+      },
+      "properties": {
+        "NAME": "CAMIGUIN",
+        "TYPE": "SUB-CHAPTER",
+        "CODE": "sub04",
+        "ADDRESS": "Rizal Street, Mambajao, Camiguin 9100",
+        "REGION": "MINDANAO REGION",
+        "WEBSITE": "camiguin@redcross.org.ph",
+        "TELEPHONE": "",
+        "FAX": "",
+        "ADMINISTRA": "c\/o Mother Chapter",
+        "CONTACT": "",
+        "CHAIRMAN": "c\/o Mother Chapter",
+        "REMARKS": "mother chapter-Misamis Oriental-Cagayan de Oro City"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.74403,
+          10.37411
+        ]
+      },
+      "properties": {
+        "NAME": "HILONGOS",
+        "TYPE": "SUB-CHAPTER",
+        "CODE": "sub05",
+        "ADDRESS": "Navarroza Street, Hilongos, Leyte",
+        "REGION": "VISAYAS REGION",
+        "WEBSITE": "hilongos@redcross.org.ph",
+        "TELEPHONE": "",
+        "FAX": "",
+        "ADMINISTRA": "Mrs.Everlisa N. Alotaya",
+        "CONTACT": "0910-3475510",
+        "CHAIRMAN": "Hon. Jose Emery Fulache Roble",
+        "REMARKS": "mother chapter-Tacloban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.11229,
+          16.80534
+        ]
+      },
+      "properties": {
+        "NAME": "IFUGAO",
+        "TYPE": "SUB-CHAPTER",
+        "CODE": "sub06",
+        "ADDRESS": "3rd Flr. Provincial Engineering Office Building, Capitol Compound, Lagawe, Ifugao 3600",
+        "REGION": "NORTHERN & CENTRAL LUZON",
+        "WEBSITE": "ifugao@redcross.org.ph",
+        "TELEPHONE": "074-3822241",
+        "FAX": "",
+        "ADMINISTRA": "Mr. Randy G. Blanco",
+        "CONTACT": "0916-4227670",
+        "CHAIRMAN": "Engr. Carmelita B. Buyuccan",
+        "REMARKS": "mother chapter-Nueva Vizcaya"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.78942,
+          8.06046
+        ]
+      },
+      "properties": {
+        "NAME": "LANAO DEL NORTE",
+        "TYPE": "SUB-CHAPTER",
+        "CODE": "sub07",
+        "ADDRESS": "Pigcarangan, Tubod, Lanao del Norte 9210",
+        "REGION": "MINDANAO REGION",
+        "WEBSITE": "lanao.norte@redcross.org.ph",
+        "TELEPHONE": "063-3415570",
+        "FAX": "",
+        "ADMINISTRA": "Mr. Reynaldo D. Ruiz",
+        "CONTACT": "0917-8825741",
+        "CHAIRMAN": "Dir. Lyndon G. Galica",
+        "REMARKS": "mother chapter-Iligan City"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.30861,
+          7.98366
+        ]
+      },
+      "properties": {
+        "NAME": "LANAO DEL SUR-MARAWI",
+        "TYPE": "SUB-CHAPTER",
+        "CODE": "sub08",
+        "ADDRESS": "ProvincialCapitol Complex, Buadi Sacayo, Marawi City",
+        "REGION": "MINDANAO REGION",
+        "WEBSITE": "lanaosur@redcross.org.ph",
+        "TELEPHONE": "",
+        "FAX": "",
+        "ADMINISTRA": "Mrs. Raifa Adiong",
+        "CONTACT": "0917-7068838",
+        "CHAIRMAN": "Dir. Ali Siddique S. Descallar",
+        "REMARKS": "mother chapter-Iligan City"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.98381,
+          14.45062
+        ]
+      },
+      "properties": {
+        "NAME": "LAS PIAS CITY",
+        "TYPE": "SUB-CHAPTER",
+        "CODE": "sub09",
+        "ADDRESS": "Bernabe Compound, Pulanglupa, Las Pias City",
+        "REGION": "NATIONAL CAPITAL REGION",
+        "WEBSITE": "laspinas@redcross.org.ph",
+        "TELEPHONE": "385-2926",
+        "FAX": "",
+        "ADMINISTRA": "Mr. Recson de Leon",
+        "CONTACT": "0927-5417063",
+        "CHAIRMAN": "Senator Cynthia A. Villar",
+        "REMARKS": "mother chapter-Rizal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.97662,
+          17.09016
+        ]
+      },
+      "properties": {
+        "NAME": "MT. PROVINCE",
+        "TYPE": "SUB-CHAPTER",
+        "CODE": "sub10",
+        "ADDRESS": "Capitol Compound, Bontoc, Mt. Province 3616",
+        "REGION": "NORTHERN & CENTRAL LUZON",
+        "WEBSITE": "mtprovince@redcross.org.ph",
+        "TELEPHONE": "074-6021074",
+        "FAX": "",
+        "ADMINISTRA": "Mr. Oscar G. Paris",
+        "CONTACT": "0918-9592005",
+        "CHAIRMAN": "Hon. Leonard G. Mayaen",
+        "REMARKS": "mother chapter-Baguio City"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.94771,
+          14.65798
+        ]
+      },
+      "properties": {
+        "NAME": "NAVOTAS CITY",
+        "TYPE": "SUB-CHAPTER",
+        "CODE": "sub11",
+        "ADDRESS": "Navotas City Youth Center (Tumana Area), Matambaka Street, Dagat-dagatan, Phase II, Area II, Kaunlaran Village NBBS, Navotas Cit",
+        "REGION": "NATIONAL CAPITAL REGION",
+        "WEBSITE": "navotas@redcross.org..ph",
+        "TELEPHONE": "474-5553",
+        "FAX": "",
+        "ADMINISTRA": "Mrs.  Catherine D. Cataga",
+        "CONTACT": "0928-7015812",
+        "CHAIRMAN": "Dir. Marilyn  R. Ang",
+        "REMARKS": "mother chapter-Caloocan City"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.084,
+          7.02187
+        ]
+      },
+      "properties": {
+        "NAME": "NORTH COTABATO - KIDAPAWAN CITY",
+        "TYPE": "SUB-CHAPTER",
+        "CODE": "sub12",
+        "ADDRESS": "021 Jose Dans St., Poblacion, Kidapawan City 9400",
+        "REGION": "MINDANAO REGION",
+        "WEBSITE": "northcotabatokidapawan@redcross.org. ph",
+        "TELEPHONE": "064-5210525",
+        "FAX": "",
+        "ADMINISTRA": "Mr. Leopoldo A. Devilles II",
+        "CONTACT": "0929-9757429",
+        "CHAIRMAN": "Dir. Erlinda S. Doblas, RSW",
+        "REMARKS": "mother chapter-Cotabato City"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.06823,
+          12.35471
+        ]
+      },
+      "properties": {
+        "NAME": "OCCIDENTAL MINDORO",
+        "TYPE": "SUB-CHAPTER",
+        "CODE": "sub13",
+        "ADDRESS": "M. H. del Pilar Street, Brgy. Siete, San Jose, Occidental Mindoro 5100",
+        "REGION": "SOUTHERN LUZON",
+        "WEBSITE": "mindoro.occidental@redcross.org.ph",
+        "TELEPHONE": "043-4914383",
+        "FAX": "",
+        "ADMINISTRA": "Mr. Minandro C. Ebora",
+        "CONTACT": "0928-5214238",
+        "CHAIRMAN": "Hon. Josephine Ramirez-Sato",
+        "REMARKS": "mother chapter-Lucena City"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.54443,
+          16.68822
+        ]
+      },
+      "properties": {
+        "NAME": "SANTIAGO CITY",
+        "TYPE": "SUB-CHAPTER",
+        "CODE": "sub14",
+        "ADDRESS": "City Hall Compound, San Andres, Santiago City",
+        "REGION": "NORTHERN & CENTRAL LUZON",
+        "WEBSITE": "santiagocity@redcross.org.ph",
+        "TELEPHONE": "0917-8971719",
+        "FAX": "",
+        "ADMINISTRA": "Mrs.  Estela C. Vergara",
+        "CONTACT": "0917-8128569",
+        "CHAIRMAN": "City Mayor Amelita S. Navarro",
+        "REMARKS": "mother chapter-Quirino"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.51363,
+          9.21398
+        ]
+      },
+      "properties": {
+        "NAME": "SIQUIJOR",
+        "TYPE": "SUB-CHAPTER",
+        "CODE": "sub15",
+        "ADDRESS": "Caridad Street, Poblacion, Siquijor, Siquijor  6225",
+        "REGION": "VISAYAS REGION",
+        "WEBSITE": "siquijor@redcross.org.ph",
+        "TELEPHONE": "035-4809270",
+        "FAX": "",
+        "ADMINISTRA": "Ms. Rowena L. Maputi",
+        "CONTACT": "0905-4165607",
+        "CHAIRMAN": "Dir. Arturo P. Pacatang",
+        "REMARKS": "mother chapter-Negros Oriental"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.7693,
+          5.03505
+        ]
+      },
+      "properties": {
+        "NAME": "TAWI-TAWI",
+        "TYPE": "SUB-CHAPTER",
+        "CODE": "sub16",
+        "ADDRESS": "Tubig Boh Capitol Hills, Bongao, Tawi - Tawi 7500",
+        "REGION": "MINDANAO REGION",
+        "WEBSITE": "tawi-tawi@redcross.org.ph",
+        "TELEPHONE": "",
+        "FAX": "",
+        "ADMINISTRA": "Mrs. Diana Amilasan",
+        "CONTACT": "0908-9555654",
+        "CHAIRMAN": "Glenda O. Abdul",
+        "REMARKS": "mother chapter-Sulu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.57471,
+          7.72748
+        ]
+      },
+      "properties": {
+        "NAME": "ZAMBOANGA - SIBUGAY",
+        "TYPE": "SUB-CHAPTER",
+        "CODE": "sub17",
+        "ADDRESS": "Sanito Complex, Sanito, Veterans Village, Ipil, Zamboanga Sibugay",
+        "REGION": "MINDANAO REGION",
+        "WEBSITE": "zamboanga.sibugay@redcross.org.ph",
+        "TELEPHONE": "062-9558402",
+        "FAX": "",
+        "ADMINISTRA": "Mr. Hilario G. Miranda, Jr.",
+        "CONTACT": "0918-9652465",
+        "CHAIRMAN": "Atty. Dennis Victor G. Gemarino",
+        "REMARKS": "mother chapter-Zamboanga del Sur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9699,
+          14.59136
+        ]
+      },
+      "properties": {
+        "NAME": "NATIONAL HEADQUARTERS",
+        "TYPE": "NHQ",
+        "CODE": "nhq01",
+        "ADDRESS": "Bonifacio Drive, Port Area, Manila, 1018",
+        "REGION": "NATIONAL CAPITAL REGION",
+        "WEBSITE": "prc@redcross.org.ph",
+        "TELEPHONE": "632-5270000",
+        "FAX": "",
+        "ADMINISTRA": "Gwendolyn T. Pang",
+        "CONTACT": "",
+        "CHAIRMAN": "Richard J. Gordon",
+        "REMARKS": ""
+      }
+    }
+  ]
+}
