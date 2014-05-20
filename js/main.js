@@ -197,8 +197,10 @@ function setIconType(feature){
   }    
 }
 
+var marker = [];
 
 function regionSelect(region) {
+  marker = [];
   $('#selectedRegion').html(region);
   $('#ambulanceInfo').empty();
   map.removeLayer(markers);
@@ -253,6 +255,7 @@ function chapterSelect(name) {
     if(chapter.properties.NAME === name){
       thisChapterCode = chapter.properties.CODE;
       thisChapterType = chapter.properties.TYPE.toLowerCase();
+      map.setView([chapter.geometry.coordinates[1], chapter.geometry.coordinates[0]], 9);
     }
   });
   $('#ambulanceInfo').empty();
@@ -277,14 +280,38 @@ function chapterSelect(name) {
       $('#ambulanceInfo').append(ambulanceHtml);
     }
   }
+  var mappedMarkers = marker._layers;
+  $.each(mappedMarkers, function(index, thisMarker){
+    if(thisMarker.feature.properties.CODE === thisChapterCode){
+      setTimeout(function(){
+        thisMarker.openPopup();
+      },900);
+    }
+  });
 }
 
 // define events attached to each marker
 function onEachChapter(feature, layer){
-  layer.bindPopup(feature.properties.NAME);
+  layer.bindPopup("<strong>" + feature.properties.NAME + "</strong><br>" + ambulanceCount(feature.properties.CODE));
   layer.on('click', function(e) {
     markerClick(e);
   });
+}
+
+function ambulanceCount(chapterCode){
+  var ambulanceCount = 0;
+  $.each(ambulanceData, function (index, ambulance){
+    if(chapterCode === ambulance.CODE){
+      ambulanceCount += 1;
+    }
+  });
+  if(ambulanceCount === 0){
+    return "no ambulance"
+  } else if(ambulanceCount === 1){
+    return "1 ambulance"
+  } else {
+    return ambulanceCount.toString() + " ambulances";
+  }
 }
 
 function zoomOut(){
