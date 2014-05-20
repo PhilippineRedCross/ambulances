@@ -255,7 +255,7 @@ function chapterSelect(name) {
     if(chapter.properties.NAME === name){
       thisChapterCode = chapter.properties.CODE;
       thisChapterType = chapter.properties.TYPE.toLowerCase();
-      map.setView([chapter.geometry.coordinates[1], chapter.geometry.coordinates[0]], 9);
+      map.setView([chapter.geometry.coordinates[1], chapter.geometry.coordinates[0]], 11);
     }
   });
   $('#ambulanceInfo').empty();
