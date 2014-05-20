@@ -67,7 +67,7 @@ L.control.zoom({position: 'topright'} ).addTo(map);
 
 // global variables for leaflet map layers
 var geojson = L.geoJson();
-var markers = new L.MarkerClusterGroup();  
+var markers = new L.featureGroup();  
 
 // add attribution to leaflet map
 var attrib = new L.Control.Attribution({
@@ -204,14 +204,16 @@ function regionSelect(region) {
   $('#selectedRegion').html(region);
   $('#ambulanceInfo').empty();
   map.removeLayer(markers);
-  markers = new L.MarkerClusterGroup({
-    maxClusterRadius: 15,
-    showCoverageOnHover:false, 
-    // spiderfyDistanceMultiplier:2,
-    iconCreateFunction: function(cluster) {
-      return new L.DivIcon({ html:'<div></div>', className: 'marker-cluster', iconSize: new L.Point(20, 20) });
-    }
-  });  
+  markers = new L.featureGroup();
+
+  // L.MarkerClusterGroup({
+  //   maxClusterRadius: 15,
+  //   showCoverageOnHover:false, 
+  //   // spiderfyDistanceMultiplier:2,
+  //   iconCreateFunction: function(cluster) {
+  //     return new L.DivIcon({ html:'<div></div>', className: 'marker-cluster', iconSize: new L.Point(20, 20) });
+  //   }
+  // });  
   displayedChapters = [];
   $.each(chapterData.features, function(index, chapter){
     if(chapter.properties.REGION === region || region === "All Regions"){
@@ -255,7 +257,11 @@ function chapterSelect(name) {
     if(chapter.properties.NAME === name){
       thisChapterCode = chapter.properties.CODE;
       thisChapterType = chapter.properties.TYPE.toLowerCase();
-      map.setView([chapter.geometry.coordinates[1], chapter.geometry.coordinates[0]], 11);
+      setZoom = map.getZoom();
+      if(setZoom < 10){
+        setZoom = 10;
+      }
+      map.setView([chapter.geometry.coordinates[1], chapter.geometry.coordinates[0]], setZoom);
     }
   });
   $('#ambulanceInfo').empty();
@@ -285,7 +291,7 @@ function chapterSelect(name) {
     if(thisMarker.feature.properties.CODE === thisChapterCode){
       setTimeout(function(){
         thisMarker.openPopup();
-      },900);
+      },400);
     }
   });
 }
