@@ -110,19 +110,9 @@ function mapCountry() {
 }
 
 function getAmbulanceData() {
-  $.ajax({
-    type: 'GET',
-    url: 'data/Chapters_Ambulances.json',
-    contentType: 'application/json',
-    dataType: 'json',
-    timeout: 10000,
-    success: function(data) {
-      ambulanceData = data;
-      getChapterData();
-    },
-    error: function(e) {
-      console.log(e);
-    }
+  d3.csv("data/Chapters_Ambulances_20140625.csv", function(data){
+    ambulanceData = data;
+    getChapterData();
   });
 }
 
@@ -256,7 +246,7 @@ function chapterSelect(name) {
   $.each(chapterData.features, function(index, chapter){
     if(chapter.properties.NAME === name){
       thisChapterCode = chapter.properties.CODE;
-      thisChapterType = chapter.properties.TYPE.toLowerCase();
+      thisChapterType = chapter.properties.TYPE;
       setZoom = map.getZoom();
       if(setZoom < 10){
         setZoom = 10;
